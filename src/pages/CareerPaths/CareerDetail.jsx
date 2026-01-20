@@ -21,7 +21,7 @@ function renderMaybeList(value) {
     );
   }
   if (typeof value === 'string' && value.trim().length > 0) return <p>{value}</p>;
-  return <p className="detailSection__muted">Coming soon.</p>;
+  return null;
 }
 
 const CareerDetail = () => {
@@ -100,17 +100,34 @@ const CareerDetail = () => {
                   <span className="cpQuick__value">{career.scope_in_india}</span>
                 </div>
                 <div className="cpQuick__row">
-                  <span className="cpQuick__label">Degree Required</span>
+                  <span className="cpQuick__label">{stream === 'commerce' ? 'Degree / Course Required' : 'Degree Required'}</span>
                   <span className="cpQuick__value">{career.degree_required}</span>
                 </div>
                 <div className="cpQuick__row">
                   <span className="cpQuick__label">Eligibility</span>
                   <span className="cpQuick__value">{career.eligibility}</span>
                 </div>
-                <div className="cpQuick__row">
-                  <span className="cpQuick__label">Entry Salary</span>
-                  <span className="cpQuick__value">{career?.salary_range_inr?.entry_level || '-'}</span>
-                </div>
+                {stream === 'commerce' ? (
+                  <>
+                    <div className="cpQuick__row">
+                      <span className="cpQuick__label">Entry-Level Salary</span>
+                      <span className="cpQuick__value">{career?.salary_range_inr?.entry_level || '-'}</span>
+                    </div>
+                    <div className="cpQuick__row">
+                      <span className="cpQuick__label">Mid-Level Salary</span>
+                      <span className="cpQuick__value">{career?.salary_range_inr?.mid_level || '-'}</span>
+                    </div>
+                    <div className="cpQuick__row">
+                      <span className="cpQuick__label">High-Level Salary</span>
+                      <span className="cpQuick__value">{career?.salary_range_inr?.high_level || '-'}</span>
+                    </div>
+                  </>
+                ) : (
+                  <div className="cpQuick__row">
+                    <span className="cpQuick__label">Entry Salary</span>
+                    <span className="cpQuick__value">{career?.salary_range_inr?.entry_level || '-'}</span>
+                  </div>
+                )}
               </div>
             </div>
 
@@ -126,15 +143,15 @@ const CareerDetail = () => {
               <CareerDetailSection title="7. Scope in India">{renderMaybeList(career.scope_in_india)}</CareerDetailSection>
               <CareerDetailSection title="8. Salary in India">
                 <ul>
-                  <li>Entry: {career?.salary_range_inr?.entry_level || '-'}</li>
-                  <li>Mid: {career?.salary_range_inr?.mid_level || '-'}</li>
-                  <li>High: {career?.salary_range_inr?.high_level || '-'}</li>
+                  <li>Entry-Level: {career?.salary_range_inr?.entry_level || career?.entry_salary || '-'}</li>
+                  <li>Mid-Level: {career?.salary_range_inr?.mid_level || '-'}</li>
+                  <li>High-Level: {career?.salary_range_inr?.high_level || '-'}</li>
                 </ul>
               </CareerDetailSection>
               <CareerDetailSection title="9. Work Areas">{renderMaybeList(career.work_areas)}</CareerDetailSection>
               <CareerDetailSection title="10. Pros & Cons">
                 {(career?.pros_and_cons?.pros?.length || 0) + (career?.pros_and_cons?.cons?.length || 0) === 0 ? (
-                  <p className="detailSection__muted">Coming soon.</p>
+                  null
                 ) : (
                   <div className="cpProsCons">
                     <div>
@@ -152,7 +169,7 @@ const CareerDetail = () => {
               <CareerDetailSection title="12. Resources">{renderMaybeList(career.resources)}</CareerDetailSection>
               <CareerDetailSection title="13. Related Careers">
                 {related.length === 0 ? (
-                  <p className="detailSection__muted">Coming soon.</p>
+                  null
                 ) : (
                   <div className="cpRelated">
                     {related.map((c) => (

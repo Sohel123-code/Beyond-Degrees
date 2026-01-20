@@ -1,0 +1,847 @@
+{
+    "non_degree_careers": [
+        {
+            "career_name": "Digital Marketing Executive",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Digital Marketing Executives promote brands and products using online platforms like Google, Instagram, and YouTube.",
+            "who_should_choose_this": [
+                "Students interested in online business",
+                "Creative and analytical thinkers"
+            ],
+            "skills_required": [
+                "SEO",
+                "Social media marketing",
+                "Content planning",
+                "Analytics basics"
+            ],
+            "learning_paths": [
+                "Digital marketing certification",
+                "Hands-on campaigns"
+            ],
+            "career_roadmap": [
+                "Marketing Intern",
+                "Digital Marketer",
+                "Marketing Manager"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "7 – 12 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Digital Agencies",
+                "Startups",
+                "Freelancing"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Quick entry",
+                    "High demand"
+                ],
+                "cons": [
+                    "Fast-changing field"
+                ]
+            },
+            "how_to_start": [
+                "Learn basics",
+                "Do internships",
+                "Run sample campaigns"
+            ],
+            "resources": [
+                "Google Digital Garage",
+                "Marketing blogs"
+            ],
+            "related_careers": [
+                "Content Strategist",
+                "SEO Specialist"
+            ]
+        },
+        {
+            "career_name": "YouTuber / Content Creator",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "Variable",
+            "overview": "Content Creators create videos or posts to educate, entertain, or influence audiences online.",
+            "who_should_choose_this": [
+                "Creative students",
+                "Those comfortable on camera"
+            ],
+            "skills_required": [
+                "Content creation",
+                "Video editing",
+                "Storytelling"
+            ],
+            "learning_paths": [
+                "Self-learning",
+                "Practice with content"
+            ],
+            "career_roadmap": [
+                "Beginner Creator",
+                "Monetized Creator",
+                "Brand Influencer"
+            ],
+            "salary_in_india": {
+                "entry": "Variable",
+                "mid": "5 – 15 LPA",
+                "high": "Unlimited"
+            },
+            "work_areas": [
+                "YouTube",
+                "Instagram",
+                "Brand collaborations"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Creative freedom"
+                ],
+                "cons": [
+                    "Income instability"
+                ]
+            },
+            "how_to_start": [
+                "Choose niche",
+                "Post consistently"
+            ],
+            "resources": [
+                "YouTube Creator Academy"
+            ],
+            "related_careers": [
+                "Video Editor",
+                "Social Media Manager"
+            ]
+        },
+        {
+            "career_name": "Graphic Designer",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Graphic Designers create visual content for brands, websites, and advertisements.",
+            "who_should_choose_this": [
+                "Creative thinkers",
+                "Design lovers"
+            ],
+            "skills_required": [
+                "Photoshop",
+                "Illustrator",
+                "Creativity"
+            ],
+            "learning_paths": [
+                "Design courses",
+                "Portfolio building"
+            ],
+            "career_roadmap": [
+                "Junior Designer",
+                "Senior Designer",
+                "Creative Lead"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 12 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Agencies",
+                "Freelancing",
+                "Startups"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Creative career"
+                ],
+                "cons": [
+                    "Client revisions"
+                ]
+            },
+            "how_to_start": [
+                "Learn tools",
+                "Build portfolio"
+            ],
+            "resources": [
+                "Design platforms"
+            ],
+            "related_careers": [
+                "UI Designer",
+                "Video Editor"
+            ]
+        },
+        {
+            "career_name": "Video Editor",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 6 LPA",
+            "overview": "Video Editors edit videos for creators, brands, films, and digital platforms.",
+            "who_should_choose_this": [
+                "Visual learners",
+                "Tech-creative students"
+            ],
+            "skills_required": [
+                "Premiere Pro",
+                "After Effects",
+                "Story pacing"
+            ],
+            "learning_paths": [
+                "Editing courses",
+                "Practice projects"
+            ],
+            "career_roadmap": [
+                "Editor",
+                "Senior Editor",
+                "Creative Director"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 6 LPA",
+                "mid": "8 – 15 LPA",
+                "high": "30+ LPA"
+            },
+            "work_areas": [
+                "Media houses",
+                "YouTubers",
+                "Production studios"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High demand"
+                ],
+                "cons": [
+                    "Deadline pressure"
+                ]
+            },
+            "how_to_start": [
+                "Learn editing",
+                "Edit sample videos"
+            ],
+            "resources": [
+                "Editing tutorials"
+            ],
+            "related_careers": [
+                "Content Creator",
+                "Graphic Designer"
+            ]
+        },
+        {
+            "career_name": "Fitness Trainer",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "10th / 12th",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Fitness Trainers help people improve physical health through exercise programs.",
+            "who_should_choose_this": [
+                "Fitness enthusiasts",
+                "Health-focused students"
+            ],
+            "skills_required": [
+                "Exercise knowledge",
+                "Motivation skills"
+            ],
+            "learning_paths": [
+                "Fitness certification"
+            ],
+            "career_roadmap": [
+                "Trainer",
+                "Senior Trainer",
+                "Gym Owner"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Gyms",
+                "Personal training",
+                "Online coaching"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Healthy lifestyle"
+                ],
+                "cons": [
+                    "Physical effort"
+                ]
+            },
+            "how_to_start": [
+                "Get certified",
+                "Join gym"
+            ],
+            "resources": [
+                "Fitness institutes"
+            ],
+            "related_careers": [
+                "Yoga Instructor"
+            ]
+        },
+        {
+            "career_name": "Yoga Instructor",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "10th / 12th",
+            "entry_salary": "2 – 4 LPA",
+            "overview": "Yoga Instructors teach physical, mental, and breathing practices to improve health and well-being.",
+            "who_should_choose_this": [
+                "Health-conscious students",
+                "Those interested in holistic living"
+            ],
+            "skills_required": [
+                "Yoga techniques",
+                "Communication",
+                "Discipline"
+            ],
+            "learning_paths": [
+                "Yoga certification",
+                "Practical training"
+            ],
+            "career_roadmap": [
+                "Yoga Trainer",
+                "Senior Instructor",
+                "Own Studio"
+            ],
+            "salary_in_india": {
+                "entry": "2 – 4 LPA",
+                "mid": "5 – 8 LPA",
+                "high": "15+ LPA"
+            },
+            "work_areas": [
+                "Yoga Centers",
+                "Gyms",
+                "Online Classes"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Healthy career"
+                ],
+                "cons": [
+                    "Slow initial income"
+                ]
+            },
+            "how_to_start": [
+                "Get certified",
+                "Start teaching locally"
+            ],
+            "resources": [
+                "Yoga institutes"
+            ],
+            "related_careers": [
+                "Fitness Trainer"
+            ]
+        },
+        {
+            "career_name": "Social Media Manager",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Social Media Managers handle brand presence on platforms like Instagram, LinkedIn, and Twitter.",
+            "who_should_choose_this": [
+                "Creative students",
+                "Social media enthusiasts"
+            ],
+            "skills_required": [
+                "Content planning",
+                "Analytics",
+                "Communication"
+            ],
+            "learning_paths": [
+                "Social media courses",
+                "Hands-on management"
+            ],
+            "career_roadmap": [
+                "Executive",
+                "Manager",
+                "Brand Strategist"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 12 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Brands",
+                "Agencies",
+                "Freelancing"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High demand"
+                ],
+                "cons": [
+                    "24/7 engagement"
+                ]
+            },
+            "how_to_start": [
+                "Manage pages",
+                "Grow accounts"
+            ],
+            "resources": [
+                "Meta Blueprint"
+            ],
+            "related_careers": [
+                "Digital Marketer"
+            ]
+        },
+        {
+            "career_name": "SEO Specialist",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "SEO Specialists optimize websites to rank higher on search engines.",
+            "who_should_choose_this": [
+                "Analytical thinkers",
+                "Tech-curious students"
+            ],
+            "skills_required": [
+                "SEO tools",
+                "Keyword research"
+            ],
+            "learning_paths": [
+                "SEO certifications",
+                "Website practice"
+            ],
+            "career_roadmap": [
+                "SEO Executive",
+                "SEO Manager"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Agencies",
+                "Freelancing"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Remote friendly"
+                ],
+                "cons": [
+                    "Algorithm changes"
+                ]
+            },
+            "how_to_start": [
+                "Learn SEO basics"
+            ],
+            "resources": [
+                "Google Search Central"
+            ],
+            "related_careers": [
+                "Digital Marketer"
+            ]
+        },
+        {
+            "career_name": "Web Designer",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 6 LPA",
+            "overview": "Web Designers create visually appealing and user-friendly websites.",
+            "who_should_choose_this": [
+                "Creative tech students"
+            ],
+            "skills_required": [
+                "HTML",
+                "CSS",
+                "Design sense"
+            ],
+            "learning_paths": [
+                "Web design courses"
+            ],
+            "career_roadmap": [
+                "Designer",
+                "Senior Designer"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 6 LPA",
+                "mid": "7 – 12 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Agencies",
+                "Freelancing"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Creative freedom"
+                ],
+                "cons": [
+                    "Client revisions"
+                ]
+            },
+            "how_to_start": [
+                "Build sample websites"
+            ],
+            "resources": [
+                "Design tools"
+            ],
+            "related_careers": [
+                "Graphic Designer"
+            ]
+        },
+        {
+            "career_name": "Photographer",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "10th / 12th",
+            "entry_salary": "2 – 4 LPA",
+            "overview": "Photographers capture images for events, brands, and media.",
+            "who_should_choose_this": [
+                "Creative individuals"
+            ],
+            "skills_required": [
+                "Camera handling",
+                "Editing"
+            ],
+            "learning_paths": [
+                "Photography courses"
+            ],
+            "career_roadmap": [
+                "Assistant",
+                "Professional Photographer"
+            ],
+            "salary_in_india": {
+                "entry": "2 – 4 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Events",
+                "Media"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Creative work"
+                ],
+                "cons": [
+                    "Irregular income"
+                ]
+            },
+            "how_to_start": [
+                "Practice photography"
+            ],
+            "resources": [
+                "Photography platforms"
+            ],
+            "related_careers": [
+                "Video Editor"
+            ]
+        },
+        {
+            "career_name": "Makeup Artist",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "10th / 12th",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Makeup Artists provide professional makeup services for events and media.",
+            "who_should_choose_this": [
+                "Fashion & beauty lovers"
+            ],
+            "skills_required": [
+                "Makeup techniques"
+            ],
+            "learning_paths": [
+                "Makeup certification"
+            ],
+            "career_roadmap": [
+                "Artist",
+                "Celebrity Makeup Artist"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "8 – 15 LPA",
+                "high": "30+ LPA"
+            },
+            "work_areas": [
+                "Bridal",
+                "Media"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High income potential"
+                ],
+                "cons": [
+                    "Client dependency"
+                ]
+            },
+            "how_to_start": [
+                "Join makeup academy"
+            ],
+            "resources": [
+                "Beauty institutes"
+            ],
+            "related_careers": [
+                "Stylist"
+            ]
+        },
+        {
+            "career_name": "Real Estate Agent",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "10th / 12th",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Real Estate Agents help clients buy, sell, and rent properties while earning commission-based income.",
+            "who_should_choose_this": [
+                "Sales-oriented students",
+                "Good communicators"
+            ],
+            "skills_required": [
+                "Negotiation",
+                "Sales",
+                "Local market knowledge"
+            ],
+            "learning_paths": [
+                "Real estate training",
+                "On-field experience"
+            ],
+            "career_roadmap": [
+                "Agent",
+                "Senior Agent",
+                "Property Consultant"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "8 – 15 LPA",
+                "high": "Unlimited"
+            },
+            "work_areas": [
+                "Residential Properties",
+                "Commercial Real Estate"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High commission"
+                ],
+                "cons": [
+                    "Income instability"
+                ]
+            },
+            "how_to_start": [
+                "Join brokerage",
+                "Build local contacts"
+            ],
+            "resources": [
+                "Real estate portals"
+            ],
+            "related_careers": [
+                "Property Consultant"
+            ]
+        },
+        {
+            "career_name": "Event Manager",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Event Managers plan and execute weddings, corporate events, and public functions.",
+            "who_should_choose_this": [
+                "Organized individuals",
+                "Creative planners"
+            ],
+            "skills_required": [
+                "Event planning",
+                "Vendor management",
+                "Communication"
+            ],
+            "learning_paths": [
+                "Event management courses",
+                "Practical exposure"
+            ],
+            "career_roadmap": [
+                "Event Coordinator",
+                "Event Manager",
+                "Own Event Company"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 12 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Weddings",
+                "Corporate Events",
+                "Concerts"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Dynamic career"
+                ],
+                "cons": [
+                    "Irregular hours"
+                ]
+            },
+            "how_to_start": [
+                "Assist event planners",
+                "Handle small events"
+            ],
+            "resources": [
+                "Event platforms"
+            ],
+            "related_careers": [
+                "Cultural Event Manager"
+            ]
+        },
+        {
+            "career_name": "App Tester (Manual / Automation)",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "App Testers test mobile and web applications to ensure quality and performance.",
+            "who_should_choose_this": [
+                "Detail-oriented students",
+                "Tech-interested beginners"
+            ],
+            "skills_required": [
+                "Testing basics",
+                "Bug reporting",
+                "Attention to detail"
+            ],
+            "learning_paths": [
+                "Software testing certification",
+                "Practice projects"
+            ],
+            "career_roadmap": [
+                "Tester",
+                "Senior Tester",
+                "QA Lead"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "18+ LPA"
+            },
+            "work_areas": [
+                "IT Companies",
+                "Startups"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Easy entry into IT"
+                ],
+                "cons": [
+                    "Repetitive work"
+                ]
+            },
+            "how_to_start": [
+                "Learn testing basics",
+                "Apply for QA roles"
+            ],
+            "resources": [
+                "Testing platforms"
+            ],
+            "related_careers": [
+                "Software Tester"
+            ]
+        },
+        {
+            "career_name": "Virtual Assistant",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 6 LPA",
+            "overview": "Virtual Assistants provide remote administrative and technical support to global clients.",
+            "who_should_choose_this": [
+                "Organized students",
+                "Remote-work seekers"
+            ],
+            "skills_required": [
+                "Communication",
+                "Time management",
+                "Tool handling"
+            ],
+            "learning_paths": [
+                "VA training",
+                "Freelance platforms"
+            ],
+            "career_roadmap": [
+                "VA",
+                "Senior VA",
+                "Agency Owner"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 6 LPA",
+                "mid": "7 – 12 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Remote Work",
+                "International Clients"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Work from home"
+                ],
+                "cons": [
+                    "Client dependency"
+                ]
+            },
+            "how_to_start": [
+                "Learn tools",
+                "Apply on freelance sites"
+            ],
+            "resources": [
+                "Freelancing platforms"
+            ],
+            "related_careers": [
+                "Data Entry Specialist"
+            ]
+        },
+        {
+            "career_name": "Online Tutor",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 6 LPA",
+            "overview": "Online Tutors teach academic or skill-based subjects via digital platforms.",
+            "who_should_choose_this": [
+                "Teaching-oriented students",
+                "Subject experts"
+            ],
+            "skills_required": [
+                "Teaching",
+                "Communication"
+            ],
+            "learning_paths": [
+                "Subject mastery",
+                "Online teaching platforms"
+            ],
+            "career_roadmap": [
+                "Tutor",
+                "Senior Tutor",
+                "Course Creator"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 6 LPA",
+                "mid": "7 – 12 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "EdTech Platforms",
+                "Freelancing"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Flexible timing"
+                ],
+                "cons": [
+                    "Student retention"
+                ]
+            },
+            "how_to_start": [
+                "Choose subject",
+                "Join teaching platforms"
+            ],
+            "resources": [
+                "Online education portals"
+            ],
+            "related_careers": [
+                "Corporate Trainer"
+            ]
+        }
+    ]
+}

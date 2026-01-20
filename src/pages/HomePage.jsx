@@ -28,7 +28,7 @@ const HomePage = () => {
             <div className="hero__illustration">
               <img
                 className="hero__img"
-                src="/assets/m2.webp"
+                src="/assets/i1.jpg"
                 alt=""
                 loading="eager"
               />

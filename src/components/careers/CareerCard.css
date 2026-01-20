@@ -1,6 +1,6 @@
 .careerCard {
   display: block;
-  padding: 22px;
+  padding: 28px;
   border-radius: 14px;
   border: 1px solid rgba(15, 23, 42, 0.06);
   background: #ffffff;
@@ -16,9 +16,9 @@
 }
 
 .careerCard__title {
-  margin: 0 0 8px;
+  margin: 0 0 10px;
   font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 800;
   color: #14213d;
 }
@@ -26,17 +26,17 @@
 .careerCard__meta {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 12px;
+  gap: 10px;
+  margin-bottom: 14px;
 }
 
 .careerCard__pill {
   font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
   color: #2f5fa7;
   background: rgba(47, 95, 167, 0.10);
-  padding: 6px 10px;
+  padding: 7px 12px;
   border-radius: 999px;
 }
 
@@ -49,22 +49,53 @@
   display: flex;
   align-items: baseline;
   justify-content: space-between;
-  gap: 10px;
+  gap: 12px;
 }
 
 .careerCard__salaryLabel {
   font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-  font-size: 13px;
+  font-size: 14px;
   color: #6b768a;
   font-weight: 700;
 }
 
 .careerCard__salaryValue {
   font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 800;
   color: #14213d;
 }
 
-@media (max-width: 520px) {
+@media (max-width: 640px) {
+  .careerCard {
+    padding: 20px;
+  }
+
+  .careerCard__title {
+    font-size: 19px;
+  }
+
+  .careerCard__pill {
+    font-size: 13px;
+    padding: 5px 10px;
+  }
+
+  .careerCard__salaryValue {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .careerCard {
+    padding: 18px;
+  }
+
+  .careerCard__title {
+    font-size: 18px;
+  }
+
+  .careerCard__salary {
+    flex-direction: column;
+    gap: 4px;
+  }
 }

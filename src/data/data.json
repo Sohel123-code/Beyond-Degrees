@@ -1112,9 +1112,854 @@
           "mid_level": "Variable",
           "high_level": "Unlimited"
         }
+      },
+      {
+        "id": "stock-market-trader",
+        "stream": "commerce",
+        "career_name": "Stock Market Trader",
+        "category": "Finance & Trading",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Equity Markets",
+          "Derivatives",
+          "Proprietary Trading"
+        ],
+        "salary_range_inr": {
+          "entry_level": "2 – 5 LPA",
+          "mid_level": "6 – 15 LPA",
+          "high_level": "Unlimited"
+        }
+      },
+      {
+        "id": "economist",
+        "stream": "commerce",
+        "career_name": "Economist",
+        "category": "Economics & Policy",
+        "eligibility": "12th Commerce / Maths",
+        "degree_required": "Yes",
+        "scope_in_india": "Medium",
+        "work_areas": [
+          "Research Institutions",
+          "Government",
+          "Policy Think Tanks"
+        ],
+        "salary_range_inr": {
+          "entry_level": "5 – 8 LPA",
+          "mid_level": "10 – 18 LPA",
+          "high_level": "30+ LPA"
+        }
+      },
+      {
+        "id": "supply-chain-manager",
+        "stream": "commerce",
+        "career_name": "Supply Chain Manager",
+        "category": "Operations & Logistics",
+        "eligibility": "12th Commerce / Any Stream",
+        "degree_required": "Optional",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Manufacturing",
+          "E-commerce",
+          "Logistics Companies"
+        ],
+        "salary_range_inr": {
+          "entry_level": "4 – 6 LPA",
+          "mid_level": "8 – 15 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "risk-analyst",
+        "stream": "commerce",
+        "career_name": "Risk Analyst",
+        "category": "Finance & Risk",
+        "eligibility": "12th Commerce / Maths",
+        "degree_required": "Optional",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Banks",
+          "Insurance Firms",
+          "Investment Companies"
+        ],
+        "salary_range_inr": {
+          "entry_level": "4 – 7 LPA",
+          "mid_level": "10 – 18 LPA",
+          "high_level": "30+ LPA"
+        }
+      },
+      {
+        "id": "actuary",
+        "stream": "commerce",
+        "career_name": "Actuary",
+        "category": "Statistics & Finance",
+        "eligibility": "12th Commerce / Maths",
+        "degree_required": "Yes (Actuarial Exams)",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Insurance Companies",
+          "Risk Consulting",
+          "Financial Firms"
+        ],
+        "salary_range_inr": {
+          "entry_level": "6 – 10 LPA",
+          "mid_level": "15 – 30 LPA",
+          "high_level": "50+ LPA"
+        }
+      },
+      {
+        "id": "e-commerce-manager",
+        "stream": "commerce",
+        "career_name": "E-commerce Manager",
+        "category": "Digital Business",
+        "eligibility": "12th Any Stream",
+        "degree_required": "Optional",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Online Marketplaces",
+          "D2C Brands",
+          "Retail Companies"
+        ],
+        "salary_range_inr": {
+          "entry_level": "4 – 6 LPA",
+          "mid_level": "8 – 15 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "gst-practitioner",
+        "stream": "commerce",
+        "career_name": "GST Practitioner",
+        "category": "Taxation",
+        "eligibility": "12th Commerce",
+        "degree_required": "Yes (Certification)",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Tax Consultancy",
+          "Small Businesses",
+          "CA Firms"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 10 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "compliance-officer",
+        "stream": "commerce",
+        "career_name": "Compliance Officer",
+        "category": "Corporate Compliance",
+        "eligibility": "12th Commerce / Any Stream",
+        "degree_required": "Yes",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Corporates",
+          "Banks",
+          "Regulatory Bodies"
+        ],
+        "salary_range_inr": {
+          "entry_level": "4 – 6 LPA",
+          "mid_level": "8 – 14 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "wealth-manager",
+        "stream": "commerce",
+        "career_name": "Wealth Manager",
+        "category": "Investment & Advisory",
+        "eligibility": "12th Commerce",
+        "degree_required": "Optional",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Private Banks",
+          "Investment Firms",
+          "High Net-Worth Clients"
+        ],
+        "salary_range_inr": {
+          "entry_level": "4 – 7 LPA",
+          "mid_level": "10 – 20 LPA",
+          "high_level": "40+ LPA"
+        }
+      },
+      {
+        "id": "franchise-business-consultant",
+        "stream": "commerce",
+        "career_name": "Franchise Business Consultant",
+        "category": "Business Advisory",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "Medium-High",
+        "work_areas": [
+          "Retail Brands",
+          "Food Chains",
+          "Business Consulting"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "7 – 12 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "corporate-trainer",
+        "stream": "commerce",
+        "career_name": "Corporate Trainer",
+        "category": "Learning & Development",
+        "eligibility": "12th Any Stream",
+        "degree_required": "Optional",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Corporates",
+          "EdTech Platforms",
+          "Training Firms"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 12 LPA",
+          "high_level": "30+ LPA"
+        }
+      },
+      {
+        "id": "business-process-analyst",
+        "stream": "commerce",
+        "career_name": "Business Process Analyst",
+        "category": "Process Optimization",
+        "eligibility": "12th Commerce / Any Stream",
+        "degree_required": "Optional",
+        "scope_in_india": "High",
+        "work_areas": [
+          "IT Services",
+          "Consulting Firms",
+          "Corporates"
+        ],
+        "salary_range_inr": {
+          "entry_level": "4 – 6 LPA",
+          "mid_level": "8 – 14 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "international-trade-specialist",
+        "stream": "commerce",
+        "career_name": "International Trade Specialist",
+        "category": "Global Business",
+        "eligibility": "12th Commerce",
+        "degree_required": "Yes",
+        "scope_in_india": "Medium-High",
+        "work_areas": [
+          "Export-Import Firms",
+          "MNCs",
+          "Logistics Companies"
+        ],
+        "salary_range_inr": {
+          "entry_level": "4 – 6 LPA",
+          "mid_level": "8 – 14 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "business-content-strategist",
+        "stream": "commerce",
+        "career_name": "Business Content Strategist",
+        "category": "Content & Media",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Startups",
+          "Digital Media",
+          "Personal Brands"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "7 – 12 LPA",
+          "high_level": "30+ LPA"
+        }
       }
     ],
-    "arts": [],
-    "alternate": []
+    "arts": [
+      {
+        "id": "civil-services-officer",
+        "stream": "arts",
+        "career_name": "Civil Services Officer (IAS / IPS / IFS)",
+        "category": "Administration",
+        "eligibility": "12th Any Stream",
+        "degree_required": "Yes (via UPSC)",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Government Departments",
+          "Administration",
+          "Policy Bodies"
+        ],
+        "salary_range_inr": {
+          "entry_level": "6 – 8 LPA",
+          "mid_level": "12 – 20 LPA",
+          "high_level": "30+ LPA"
+        }
+      },
+      {
+        "id": "journalist",
+        "stream": "arts",
+        "career_name": "Journalist",
+        "category": "Media & News",
+        "eligibility": "12th Any Stream",
+        "degree_required": "Optional",
+        "scope_in_india": "High",
+        "work_areas": [
+          "News Channels",
+          "Digital Media",
+          "Newspapers"
+        ],
+        "salary_range_inr": {
+          "entry_level": "2 – 4 LPA",
+          "mid_level": "6 – 10 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "lawyer",
+        "stream": "arts",
+        "career_name": "Lawyer",
+        "category": "Legal Services",
+        "eligibility": "12th Any Stream",
+        "degree_required": "Yes (LLB)",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Courts",
+          "Law Firms",
+          "Corporate Legal"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "8 – 15 LPA",
+          "high_level": "30+ LPA"
+        }
+      },
+      {
+        "id": "psychologist",
+        "stream": "arts",
+        "career_name": "Psychologist",
+        "category": "Mental Health",
+        "eligibility": "12th Any Stream",
+        "degree_required": "Yes",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Hospitals",
+          "Counseling Centers",
+          "Schools"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 12 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "content-writer",
+        "stream": "arts",
+        "career_name": "Content Writer",
+        "category": "Content & Media",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Digital Agencies",
+          "Media Houses",
+          "Freelancing"
+        ],
+        "salary_range_inr": {
+          "entry_level": "2 – 4 LPA",
+          "mid_level": "6 – 10 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "sociologist",
+        "stream": "arts",
+        "career_name": "Sociologist",
+        "category": "Social Sciences",
+        "eligibility": "12th Any Stream",
+        "degree_required": "Yes",
+        "scope_in_india": "Medium",
+        "work_areas": [
+          "NGOs",
+          "Research Institutes",
+          "Government Projects"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 10 LPA",
+          "high_level": "15+ LPA"
+        }
+      },
+      {
+        "id": "political-analyst",
+        "stream": "arts",
+        "career_name": "Political Analyst",
+        "category": "Governance",
+        "eligibility": "12th Any Stream",
+        "degree_required": "Yes",
+        "scope_in_india": "Medium-High",
+        "work_areas": [
+          "Think Tanks",
+          "Media Houses",
+          "Government"
+        ],
+        "salary_range_inr": {
+          "entry_level": "4 – 6 LPA",
+          "mid_level": "8 – 14 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "historian",
+        "stream": "arts",
+        "career_name": "Historian",
+        "category": "History & Culture",
+        "eligibility": "12th Any Stream",
+        "degree_required": "Yes",
+        "scope_in_india": "Medium",
+        "work_areas": [
+          "Universities",
+          "Museums",
+          "Archives"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 10 LPA",
+          "high_level": "15+ LPA"
+        }
+      },
+      {
+        "id": "public-relations-officer",
+        "stream": "arts",
+        "career_name": "Public Relations Officer",
+        "category": "Corporate Communication",
+        "eligibility": "12th Any Stream",
+        "degree_required": "Optional",
+        "scope_in_india": "High",
+        "work_areas": [
+          "PR Agencies",
+          "Corporates",
+          "Celebrities"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "7 – 12 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "yoga-instructor",
+        "stream": "arts",
+        "career_name": "Yoga Instructor",
+        "category": "Wellness",
+        "eligibility": "10th / 12th",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Yoga Centers",
+          "Gyms",
+          "Online Classes"
+        ],
+        "salary_range_inr": {
+          "entry_level": "2 – 4 LPA",
+          "mid_level": "5 – 8 LPA",
+          "high_level": "15+ LPA"
+        }
+      },
+      {
+        "id": "social-media-manager",
+        "stream": "arts",
+        "career_name": "Social Media Manager",
+        "category": "Social Media",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Brands",
+          "Agencies",
+          "Freelancing"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 12 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "seo-specialist",
+        "stream": "arts",
+        "career_name": "SEO Specialist",
+        "category": "Digital Marketing",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Agencies",
+          "Freelancing"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 10 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "web-designer",
+        "stream": "arts",
+        "career_name": "Web Designer",
+        "category": "Web Design",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Agencies",
+          "Freelancing"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 6 LPA",
+          "mid_level": "7 – 12 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "photographer",
+        "stream": "arts",
+        "career_name": "Photographer",
+        "category": "Media",
+        "eligibility": "10th / 12th",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Events",
+          "Media"
+        ],
+        "salary_range_inr": {
+          "entry_level": "2 – 4 LPA",
+          "mid_level": "6 – 10 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "makeup-artist",
+        "stream": "arts",
+        "career_name": "Makeup Artist",
+        "category": "Beauty",
+        "eligibility": "10th / 12th",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Bridal",
+          "Media"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "8 – 15 LPA",
+          "high_level": "30+ LPA"
+        }
+      }
+    ],
+    "alternate": [
+      {
+        "id": "digital-marketing-executive",
+        "stream": "alternate",
+        "career_name": "Digital Marketing Executive",
+        "category": "Marketing",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Digital Agencies",
+          "Startups",
+          "Freelancing"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "7 – 12 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "youtuber-content-creator",
+        "stream": "alternate",
+        "career_name": "YouTuber / Content Creator",
+        "category": "Media",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "YouTube",
+          "Instagram",
+          "Brand collaborations"
+        ],
+        "salary_range_inr": {
+          "entry_level": "Variable",
+          "mid_level": "5 – 15 LPA",
+          "high_level": "Unlimited"
+        }
+      },
+      {
+        "id": "graphic-designer",
+        "stream": "alternate",
+        "career_name": "Graphic Designer",
+        "category": "Design",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Agencies",
+          "Freelancing",
+          "Startups"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 12 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "video-editor",
+        "stream": "alternate",
+        "career_name": "Video Editor",
+        "category": "Post-Production",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Media houses",
+          "YouTubers",
+          "Production studios"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 6 LPA",
+          "mid_level": "8 – 15 LPA",
+          "high_level": "30+ LPA"
+        }
+      },
+      {
+        "id": "fitness-trainer",
+        "stream": "alternate",
+        "career_name": "Fitness Trainer",
+        "category": "Health & Fitness",
+        "eligibility": "10th / 12th",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Gyms",
+          "Personal training",
+          "Online coaching"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 10 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "yoga-instructor",
+        "stream": "alternate",
+        "career_name": "Yoga Instructor",
+        "category": "Wellness",
+        "eligibility": "10th / 12th",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Yoga Centers",
+          "Gyms",
+          "Online Classes"
+        ],
+        "salary_range_inr": {
+          "entry_level": "2 – 4 LPA",
+          "mid_level": "5 – 8 LPA",
+          "high_level": "15+ LPA"
+        }
+      },
+      {
+        "id": "social-media-manager",
+        "stream": "alternate",
+        "career_name": "Social Media Manager",
+        "category": "Social Media",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Brands",
+          "Agencies",
+          "Freelancing"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 12 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "seo-specialist",
+        "stream": "alternate",
+        "career_name": "SEO Specialist",
+        "category": "Digital Marketing",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Agencies",
+          "Freelancing"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 10 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "web-designer",
+        "stream": "alternate",
+        "career_name": "Web Designer",
+        "category": "Web Design",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Agencies",
+          "Freelancing"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 6 LPA",
+          "mid_level": "7 – 12 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "photographer",
+        "stream": "alternate",
+        "career_name": "Photographer",
+        "category": "Media",
+        "eligibility": "10th / 12th",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Events",
+          "Media"
+        ],
+        "salary_range_inr": {
+          "entry_level": "2 – 4 LPA",
+          "mid_level": "6 – 10 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "makeup-artist",
+        "stream": "alternate",
+        "career_name": "Makeup Artist",
+        "category": "Beauty",
+        "eligibility": "10th / 12th",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Bridal",
+          "Media"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "8 – 15 LPA",
+          "high_level": "30+ LPA"
+        }
+      },
+      {
+        "id": "real-estate-agent",
+        "stream": "alternate",
+        "career_name": "Real Estate Agent",
+        "category": "Sales",
+        "eligibility": "10th / 12th",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Residential Properties",
+          "Commercial Real Estate"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "8 – 15 LPA",
+          "high_level": "Unlimited"
+        }
+      },
+      {
+        "id": "event-manager",
+        "stream": "alternate",
+        "career_name": "Event Manager",
+        "category": "Planning",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "Weddings",
+          "Corporate Events",
+          "Concerts"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 12 LPA",
+          "high_level": "25+ LPA"
+        }
+      },
+      {
+        "id": "app-tester-manual-automation",
+        "stream": "alternate",
+        "career_name": "App Tester (Manual / Automation)",
+        "category": "IT Testing",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "High",
+        "work_areas": [
+          "IT Companies",
+          "Startups"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 5 LPA",
+          "mid_level": "6 – 10 LPA",
+          "high_level": "18+ LPA"
+        }
+      },
+      {
+        "id": "virtual-assistant",
+        "stream": "alternate",
+        "career_name": "Virtual Assistant",
+        "category": "Administration",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "Remote Work",
+          "International Clients"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 6 LPA",
+          "mid_level": "7 – 12 LPA",
+          "high_level": "20+ LPA"
+        }
+      },
+      {
+        "id": "online-tutor",
+        "stream": "alternate",
+        "career_name": "Online Tutor",
+        "category": "Education",
+        "eligibility": "12th Any Stream",
+        "degree_required": "No",
+        "scope_in_india": "Very High",
+        "work_areas": [
+          "EdTech Platforms",
+          "Freelancing"
+        ],
+        "salary_range_inr": {
+          "entry_level": "3 – 6 LPA",
+          "mid_level": "7 – 12 LPA",
+          "high_level": "25+ LPA"
+        }
+      }
+    ]
   }
 }

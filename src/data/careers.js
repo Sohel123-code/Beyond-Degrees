@@ -1,6 +1,8 @@
 import baseData from './data.json';
 import scienceDetail from './sd.json';
 import commerceDetail from './commerce.json';
+import artsDetail from './arts.json';
+import nonDegreeDetail from './non-degree.json';
 
 export const STREAMS = [
   { key: 'science', label: 'Science Students', image: '/assets/science.jpg' },
@@ -14,34 +16,26 @@ const scienceDetailMap = new Map(
 );
 
 const commerceDetailMap = new Map(
-  (commerceDetail?.commerce_students_careers || []).map((c) => [c.career_name, c])
+  (commerceDetail?.careers || commerceDetail?.commerce_students_careers || []).map((c) => [c.career_name, c])
+);
+
+const artsDetailMap = new Map(
+  (artsDetail?.careers || artsDetail?.arts_students_careers || []).map((c) => [c.career_name, c])
+);
+
+const nonDegreeDetailMap = new Map(
+  (nonDegreeDetail?.non_degree_careers || []).map((c) => [c.career_name, c])
 );
 
 function mergeScienceCareer(career) {
   const detail = scienceDetailMap.get(career.career_name);
   if (!detail) return career;
 
-  // Always prioritize detail data from sd.json - use it if property exists in detail
-  const mergedSalary = detail.salary_in_india || detail.salary_range_inr || career.salary_range_inr || {
-    entry: '',
-    mid: '',
-    high: ''
-  };
+  const mergedSalary = detail.salary_in_india || detail.salary_range_inr || career.salary_range_inr || {};
 
   return {
     ...career,
-    // Use detail value if it exists (even if empty string/array), otherwise use career value
-    overview: detail.hasOwnProperty('overview') ? detail.overview : career.overview,
-    who_should_choose_this: detail.hasOwnProperty('who_should_choose_this') ? detail.who_should_choose_this : career.who_should_choose_this,
-    skills_required: detail.hasOwnProperty('skills_required') ? detail.skills_required : career.skills_required,
-    learning_paths: detail.hasOwnProperty('learning_paths') ? detail.learning_paths : career.learning_paths,
-    career_roadmap: detail.hasOwnProperty('career_roadmap') ? detail.career_roadmap : career.career_roadmap,
-    scope_in_india: detail.hasOwnProperty('scope_in_india') ? detail.scope_in_india : career.scope_in_india,
-    work_areas: detail.hasOwnProperty('work_areas') ? detail.work_areas : career.work_areas,
-    pros_and_cons: detail.hasOwnProperty('pros_and_cons') ? detail.pros_and_cons : career.pros_and_cons,
-    how_to_start: detail.hasOwnProperty('how_to_start') ? detail.how_to_start : career.how_to_start,
-    resources: detail.hasOwnProperty('resources') ? detail.resources : career.resources,
-    related_careers: detail.hasOwnProperty('related_careers') ? detail.related_careers : career.related_careers,
+    ...detail,
     salary_range_inr: {
       entry_level: mergedSalary.entry || mergedSalary.entry_level || career?.salary_range_inr?.entry_level || '',
       mid_level: mergedSalary.mid || mergedSalary.mid_level || career?.salary_range_inr?.mid_level || '',
@@ -54,23 +48,49 @@ function mergeCommerceCareer(career) {
   const detail = commerceDetailMap.get(career.career_name);
   if (!detail) return career;
 
+  const mergedSalary = detail.salary_in_india || detail.salary_range_inr || career.salary_range_inr || {};
+
   return {
     ...career,
-    overview: detail.hasOwnProperty('overview') ? detail.overview : career.overview,
-    who_should_choose_this: detail.hasOwnProperty('who_should_choose_this') ? detail.who_should_choose_this : career.who_should_choose_this,
-    skills_required: detail.hasOwnProperty('skills_required') ? detail.skills_required : career.skills_required,
-    learning_paths: detail.hasOwnProperty('learning_paths') ? detail.learning_paths : career.learning_paths,
-    career_roadmap: detail.hasOwnProperty('career_roadmap') ? detail.career_roadmap : career.career_roadmap,
-    scope_in_india: detail.hasOwnProperty('scope_in_india') ? detail.scope_in_india : career.scope_in_india,
-    work_areas: detail.hasOwnProperty('work_areas') ? detail.work_areas : career.work_areas,
-    pros_and_cons: detail.hasOwnProperty('pros_and_cons') ? detail.pros_and_cons : career.pros_and_cons,
-    how_to_start: detail.hasOwnProperty('how_to_start') ? detail.how_to_start : career.how_to_start,
-    resources: detail.hasOwnProperty('resources') ? detail.resources : career.resources,
-    related_careers: detail.hasOwnProperty('related_careers') ? detail.related_careers : career.related_careers,
+    ...detail,
     salary_range_inr: {
-      entry_level: detail?.salary_range_inr?.entry_level || career?.salary_range_inr?.entry_level || '',
-      mid_level: detail?.salary_range_inr?.mid_level || career?.salary_range_inr?.mid_level || '',
-      high_level: detail?.salary_range_inr?.high_level || career?.salary_range_inr?.high_level || ''
+      entry_level: mergedSalary.entry || mergedSalary.entry_level || career?.salary_range_inr?.entry_level || '',
+      mid_level: mergedSalary.mid || mergedSalary.mid_level || career?.salary_range_inr?.mid_level || '',
+      high_level: mergedSalary.high || mergedSalary.high_level || career?.salary_range_inr?.high_level || ''
+    }
+  };
+}
+
+function mergeArtsCareer(career) {
+  const detail = artsDetailMap.get(career.career_name);
+  if (!detail) return career;
+
+  const mergedSalary = detail.salary_in_india || detail.salary_range_inr || career.salary_range_inr || {};
+
+  return {
+    ...career,
+    ...detail,
+    salary_range_inr: {
+      entry_level: mergedSalary.entry || mergedSalary.entry_level || career?.salary_range_inr?.entry_level || '',
+      mid_level: mergedSalary.mid || mergedSalary.mid_level || career?.salary_range_inr?.mid_level || '',
+      high_level: mergedSalary.high || mergedSalary.high_level || career?.salary_range_inr?.high_level || ''
+    }
+  };
+}
+
+function mergeNonDegreeCareer(career) {
+  const detail = nonDegreeDetailMap.get(career.career_name);
+  if (!detail) return career;
+
+  const mergedSalary = detail.salary_in_india || detail.salary_range_inr || career.salary_range_inr || {};
+
+  return {
+    ...career,
+    ...detail,
+    salary_range_inr: {
+      entry_level: mergedSalary.entry || mergedSalary.entry_level || career?.salary_range_inr?.entry_level || '',
+      mid_level: mergedSalary.mid || mergedSalary.mid_level || career?.salary_range_inr?.mid_level || '',
+      high_level: mergedSalary.high || mergedSalary.high_level || career?.salary_range_inr?.high_level || ''
     }
   };
 }
@@ -82,6 +102,12 @@ export function getStreamCareers(streamKey) {
   }
   if (streamKey === 'commerce') {
     return data.map(mergeCommerceCareer);
+  }
+  if (streamKey === 'arts') {
+    return data.map(mergeArtsCareer);
+  }
+  if (streamKey === 'alternate') {
+    return data.map(mergeNonDegreeCareer);
   }
   return data;
 }

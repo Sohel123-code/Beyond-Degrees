@@ -1,0 +1,797 @@
+{
+    "arts_students_careers": [
+        {
+            "career_name": "Civil Services Officer (IAS / IPS / IFS)",
+            "scope_in_india": "Very High",
+            "degree_required": "Yes (via UPSC)",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "6 – 8 LPA",
+            "overview": "Civil Services Officers work in administration, law enforcement, and policy-making at the national and state levels.",
+            "who_should_choose_this": [
+                "Students interested in public service",
+                "Those with leadership qualities"
+            ],
+            "skills_required": [
+                "General knowledge",
+                "Decision making",
+                "Leadership",
+                "Communication"
+            ],
+            "learning_paths": [
+                "Graduation",
+                "UPSC preparation",
+                "Interview training"
+            ],
+            "career_roadmap": [
+                "UPSC Aspirant",
+                "Probationary Officer",
+                "District / Senior Officer"
+            ],
+            "salary_in_india": {
+                "entry": "6 – 8 LPA",
+                "mid": "12 – 20 LPA",
+                "high": "30+ LPA"
+            },
+            "work_areas": [
+                "Government Departments",
+                "Administration",
+                "Policy Bodies"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Prestige",
+                    "Job security"
+                ],
+                "cons": [
+                    "Very tough exam"
+                ]
+            },
+            "how_to_start": [
+                "Choose any degree",
+                "Start UPSC preparation early"
+            ],
+            "resources": [
+                "UPSC syllabus",
+                "NCERT books"
+            ],
+            "related_careers": [
+                "Policy Analyst",
+                "Public Administrator"
+            ]
+        },
+        {
+            "career_name": "Journalist",
+            "scope_in_india": "High",
+            "degree_required": "Optional",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "2 – 4 LPA",
+            "overview": "Journalists research, write, and report news across print, digital, and broadcast media.",
+            "who_should_choose_this": [
+                "Curious students",
+                "Good writers"
+            ],
+            "skills_required": [
+                "Writing",
+                "Research",
+                "Communication"
+            ],
+            "learning_paths": [
+                "BA Journalism",
+                "Media internships"
+            ],
+            "career_roadmap": [
+                "Reporter",
+                "Senior Journalist",
+                "Editor"
+            ],
+            "salary_in_india": {
+                "entry": "2 – 4 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "News Channels",
+                "Digital Media",
+                "Newspapers"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Public influence"
+                ],
+                "cons": [
+                    "Irregular hours"
+                ]
+            },
+            "how_to_start": [
+                "Start writing",
+                "Join media internships"
+            ],
+            "resources": [
+                "News portals",
+                "Media institutes"
+            ],
+            "related_careers": [
+                "Content Writer",
+                "News Editor"
+            ]
+        },
+        {
+            "career_name": "Lawyer",
+            "scope_in_india": "Very High",
+            "degree_required": "Yes (LLB)",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Lawyers advise and represent clients in legal matters and court proceedings.",
+            "who_should_choose_this": [
+                "Students interested in law and justice",
+                "Good speakers"
+            ],
+            "skills_required": [
+                "Legal knowledge",
+                "Argument skills",
+                "Research"
+            ],
+            "learning_paths": [
+                "5-year LLB",
+                "Bar Council registration"
+            ],
+            "career_roadmap": [
+                "Law Student",
+                "Junior Advocate",
+                "Senior Advocate"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "8 – 15 LPA",
+                "high": "30+ LPA"
+            },
+            "work_areas": [
+                "Courts",
+                "Law Firms",
+                "Corporate Legal"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Respected profession"
+                ],
+                "cons": [
+                    "Slow initial growth"
+                ]
+            },
+            "how_to_start": [
+                "Clear CLAT",
+                "Enroll in law college"
+            ],
+            "resources": [
+                "Bare Acts",
+                "Legal journals"
+            ],
+            "related_careers": [
+                "Judge",
+                "Legal Advisor"
+            ]
+        },
+        {
+            "career_name": "Psychologist",
+            "scope_in_india": "High",
+            "degree_required": "Yes",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Psychologists help people understand and manage mental and emotional issues.",
+            "who_should_choose_this": [
+                "Empathetic students",
+                "Those interested in human behavior"
+            ],
+            "skills_required": [
+                "Listening skills",
+                "Empathy",
+                "Analysis"
+            ],
+            "learning_paths": [
+                "BA / MA Psychology",
+                "Clinical training"
+            ],
+            "career_roadmap": [
+                "Psychology Student",
+                "Counselor",
+                "Clinical Psychologist"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 12 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Hospitals",
+                "Counseling Centers",
+                "Schools"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Meaningful career"
+                ],
+                "cons": [
+                    "Emotional workload"
+                ]
+            },
+            "how_to_start": [
+                "Study psychology",
+                "Gain practical exposure"
+            ],
+            "resources": [
+                "Psychology journals"
+            ],
+            "related_careers": [
+                "Counselor",
+                "Therapist"
+            ]
+        },
+        {
+            "career_name": "Content Writer",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "2 – 4 LPA",
+            "overview": "Content Writers create written content for websites, brands, and digital platforms.",
+            "who_should_choose_this": [
+                "Creative writers",
+                "Language lovers"
+            ],
+            "skills_required": [
+                "Writing",
+                "SEO basics",
+                "Creativity"
+            ],
+            "learning_paths": [
+                "Writing practice",
+                "Content courses"
+            ],
+            "career_roadmap": [
+                "Content Writer",
+                "Senior Writer",
+                "Content Strategist"
+            ],
+            "salary_in_india": {
+                "entry": "2 – 4 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Digital Agencies",
+                "Media Houses",
+                "Freelancing"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Flexible work"
+                ],
+                "cons": [
+                    "Subjective feedback"
+                ]
+            },
+            "how_to_start": [
+                "Start writing",
+                "Build portfolio"
+            ],
+            "resources": [
+                "Blog platforms"
+            ],
+            "related_careers": [
+                "Copywriter",
+                "Content Strategist"
+            ]
+        },
+        {
+            "career_name": "Sociologist",
+            "scope_in_india": "Medium",
+            "degree_required": "Yes",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Sociologists study social behavior, communities, and societal change.",
+            "who_should_choose_this": [
+                "Students interested in society and culture"
+            ],
+            "skills_required": [
+                "Research",
+                "Observation",
+                "Analytical thinking"
+            ],
+            "learning_paths": [
+                "BA / MA Sociology"
+            ],
+            "career_roadmap": [
+                "Student",
+                "Research Associate",
+                "Senior Sociologist"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "15+ LPA"
+            },
+            "work_areas": [
+                "NGOs",
+                "Research Institutes",
+                "Government Projects"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Impactful work"
+                ],
+                "cons": [
+                    "Limited private jobs"
+                ]
+            },
+            "how_to_start": [
+                "Study sociology",
+                "Work on field research"
+            ],
+            "resources": [
+                "Social research journals"
+            ],
+            "related_careers": [
+                "Social Worker",
+                "Policy Analyst"
+            ]
+        },
+        {
+            "career_name": "Political Analyst",
+            "scope_in_india": "Medium-High",
+            "degree_required": "Yes",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "4 – 6 LPA",
+            "overview": "Political Analysts study political systems, policies, and elections.",
+            "who_should_choose_this": [
+                "Students interested in politics and governance"
+            ],
+            "skills_required": [
+                "Critical thinking",
+                "Research",
+                "Writing"
+            ],
+            "learning_paths": [
+                "BA / MA Political Science"
+            ],
+            "career_roadmap": [
+                "Research Assistant",
+                "Political Analyst",
+                "Senior Analyst"
+            ],
+            "salary_in_india": {
+                "entry": "4 – 6 LPA",
+                "mid": "8 – 14 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Think Tanks",
+                "Media Houses",
+                "Government"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Influence on policy"
+                ],
+                "cons": [
+                    "Limited openings"
+                ]
+            },
+            "how_to_start": [
+                "Study political science",
+                "Write analysis articles"
+            ],
+            "resources": [
+                "Policy portals"
+            ],
+            "related_careers": [
+                "Journalist",
+                "Policy Advisor"
+            ]
+        },
+        {
+            "career_name": "Historian",
+            "scope_in_india": "Medium",
+            "degree_required": "Yes",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Historians research and interpret historical events and cultures.",
+            "who_should_choose_this": [
+                "Students who love history"
+            ],
+            "skills_required": [
+                "Research",
+                "Writing",
+                "Analysis"
+            ],
+            "learning_paths": [
+                "BA / MA History"
+            ],
+            "career_roadmap": [
+                "Research Scholar",
+                "Historian",
+                "Author"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "15+ LPA"
+            },
+            "work_areas": [
+                "Universities",
+                "Museums",
+                "Archives"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Academic respect"
+                ],
+                "cons": [
+                    "Slow growth"
+                ]
+            },
+            "how_to_start": [
+                "Study history",
+                "Publish research"
+            ],
+            "resources": [
+                "Historical journals"
+            ],
+            "related_careers": [
+                "Archivist",
+                "Professor"
+            ]
+        },
+        {
+            "career_name": "Public Relations Officer",
+            "scope_in_india": "High",
+            "degree_required": "Optional",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "PROs manage public image and media communication for organizations.",
+            "who_should_choose_this": [
+                "Students good at communication"
+            ],
+            "skills_required": [
+                "Public speaking",
+                "Media handling"
+            ],
+            "learning_paths": [
+                "PR courses",
+                "Media internships"
+            ],
+            "career_roadmap": [
+                "PR Executive",
+                "PR Manager"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "7 – 12 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "PR Agencies",
+                "Corporates",
+                "Celebrities"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Dynamic career"
+                ],
+                "cons": [
+                    "High pressure"
+                ]
+            },
+            "how_to_start": [
+                "Learn communication skills"
+            ],
+            "resources": [
+                "PR platforms"
+            ],
+            "related_careers": [
+                "Journalist",
+                "Media Manager"
+            ]
+        },
+        {
+            "career_name": "Yoga Instructor",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "10th / 12th",
+            "entry_salary": "2 – 4 LPA",
+            "overview": "Yoga Instructors teach physical, mental, and breathing practices to improve health and well-being.",
+            "who_should_choose_this": [
+                "Health-conscious students",
+                "Those interested in holistic living"
+            ],
+            "skills_required": [
+                "Yoga techniques",
+                "Communication",
+                "Discipline"
+            ],
+            "learning_paths": [
+                "Yoga certification",
+                "Practical training"
+            ],
+            "career_roadmap": [
+                "Yoga Trainer",
+                "Senior Instructor",
+                "Own Studio"
+            ],
+            "salary_in_india": {
+                "entry": "2 – 4 LPA",
+                "mid": "5 – 8 LPA",
+                "high": "15+ LPA"
+            },
+            "work_areas": [
+                "Yoga Centers",
+                "Gyms",
+                "Online Classes"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Healthy career"
+                ],
+                "cons": [
+                    "Slow initial income"
+                ]
+            },
+            "how_to_start": [
+                "Get certified",
+                "Start teaching locally"
+            ],
+            "resources": [
+                "Yoga institutes"
+            ],
+            "related_careers": [
+                "Fitness Trainer"
+            ]
+        },
+        {
+            "career_name": "Social Media Manager",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Social Media Managers handle brand presence on platforms like Instagram, LinkedIn, and Twitter.",
+            "who_should_choose_this": [
+                "Creative students",
+                "Social media enthusiasts"
+            ],
+            "skills_required": [
+                "Content planning",
+                "Analytics",
+                "Communication"
+            ],
+            "learning_paths": [
+                "Social media courses",
+                "Hands-on management"
+            ],
+            "career_roadmap": [
+                "Executive",
+                "Manager",
+                "Brand Strategist"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 12 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Brands",
+                "Agencies",
+                "Freelancing"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High demand"
+                ],
+                "cons": [
+                    "24/7 engagement"
+                ]
+            },
+            "how_to_start": [
+                "Manage pages",
+                "Grow accounts"
+            ],
+            "resources": [
+                "Meta Blueprint"
+            ],
+            "related_careers": [
+                "Digital Marketer"
+            ]
+        },
+        {
+            "career_name": "SEO Specialist",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "SEO Specialists optimize websites to rank higher on search engines.",
+            "who_should_choose_this": [
+                "Analytical thinkers",
+                "Tech-curious students"
+            ],
+            "skills_required": [
+                "SEO tools",
+                "Keyword research"
+            ],
+            "learning_paths": [
+                "SEO certifications",
+                "Website practice"
+            ],
+            "career_roadmap": [
+                "SEO Executive",
+                "SEO Manager"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Agencies",
+                "Freelancing"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Remote friendly"
+                ],
+                "cons": [
+                    "Algorithm changes"
+                ]
+            },
+            "how_to_start": [
+                "Learn SEO basics"
+            ],
+            "resources": [
+                "Google Search Central"
+            ],
+            "related_careers": [
+                "Digital Marketer"
+            ]
+        },
+        {
+            "career_name": "Web Designer",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 6 LPA",
+            "overview": "Web Designers create visually appealing and user-friendly websites.",
+            "who_should_choose_this": [
+                "Creative tech students"
+            ],
+            "skills_required": [
+                "HTML",
+                "CSS",
+                "Design sense"
+            ],
+            "learning_paths": [
+                "Web design courses"
+            ],
+            "career_roadmap": [
+                "Designer",
+                "Senior Designer"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 6 LPA",
+                "mid": "7 – 12 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Agencies",
+                "Freelancing"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Creative freedom"
+                ],
+                "cons": [
+                    "Client revisions"
+                ]
+            },
+            "how_to_start": [
+                "Build sample websites"
+            ],
+            "resources": [
+                "Design tools"
+            ],
+            "related_careers": [
+                "Graphic Designer"
+            ]
+        },
+        {
+            "career_name": "Photographer",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "10th / 12th",
+            "entry_salary": "2 – 4 LPA",
+            "overview": "Photographers capture images for events, brands, and media.",
+            "who_should_choose_this": [
+                "Creative individuals"
+            ],
+            "skills_required": [
+                "Camera handling",
+                "Editing"
+            ],
+            "learning_paths": [
+                "Photography courses"
+            ],
+            "career_roadmap": [
+                "Assistant",
+                "Professional Photographer"
+            ],
+            "salary_in_india": {
+                "entry": "2 – 4 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Events",
+                "Media"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Creative work"
+                ],
+                "cons": [
+                    "Irregular income"
+                ]
+            },
+            "how_to_start": [
+                "Practice photography"
+            ],
+            "resources": [
+                "Photography platforms"
+            ],
+            "related_careers": [
+                "Video Editor"
+            ]
+        },
+        {
+            "career_name": "Makeup Artist",
+            "scope_in_india": "Very High",
+            "degree_required": "No",
+            "eligibility": "10th / 12th",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Makeup Artists provide professional makeup services for events and media.",
+            "who_should_choose_this": [
+                "Fashion & beauty lovers"
+            ],
+            "skills_required": [
+                "Makeup techniques"
+            ],
+            "learning_paths": [
+                "Makeup certification"
+            ],
+            "career_roadmap": [
+                "Artist",
+                "Celebrity Makeup Artist"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "8 – 15 LPA",
+                "high": "30+ LPA"
+            },
+            "work_areas": [
+                "Bridal",
+                "Media"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High income potential"
+                ],
+                "cons": [
+                    "Client dependency"
+                ]
+            },
+            "how_to_start": [
+                "Join makeup academy"
+            ],
+            "resources": [
+                "Beauty institutes"
+            ],
+            "related_careers": [
+                "Stylist"
+            ]
+        }
+    ]
+}
