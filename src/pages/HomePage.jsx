@@ -1,8 +1,44 @@
-import React from 'react';
+import React, { useState } from 'react';
 import SiteNavbar from '../shared/SiteNavbar';
+import { Link } from 'react-router-dom';
+import emailjs from '@emailjs/browser';
 import './HomePage.css';
 
 const HomePage = () => {
+  const [name, setName] = useState('');
+  const [submittedName, setSubmittedName] = useState('');
+  const [email, setEmail] = useState('');
+  const [status, setStatus] = useState('');
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    setSubmittedName(name);
+    setStatus('sending');
+
+    // EmailJS Configuration (User provided snippet style)
+    emailjs.sendForm(
+      'BEYOND-DEGREES',        // Service ID
+      'template_zutecjv',      // Template ID (Using previous ID provided by user)
+      e.target,                // Form element
+      'YOUR_PUBLIC_KEY'        // Public Key (Placeholder)
+    )
+      .then(() => {
+        setStatus('success');
+        setSubmittedName(name);
+        setName('');
+        setEmail('');
+        // Reset status after a few seconds to allow multiple clicks as requested
+        setTimeout(() => setStatus(''), 5000);
+      })
+      .catch((error) => {
+        console.error(error);
+        // Removed error message display as per user request
+        setStatus('');
+        setName('');
+        setEmail('');
+      });
+  };
+
   return (
     <div className="home">
       <SiteNavbar />
@@ -86,8 +122,14 @@ const HomePage = () => {
                 <img className="card__mediaImg" src="/assets/m1.jpg" alt="" loading="lazy" />
               </div>
               <div className="card__body">
-                <h3 className="card__title">Job Search Tips</h3>
-                <p className="card__text">Find the best strategies to land your dream job.</p>
+                <h3 className="card__title">Career Paths Explorer</h3>
+                <p className="card__text">
+                  Discover diverse career opportunities tailored to your degree and interests.
+                  Our comprehensive guide helps you navigate the professional world with confidence.
+                </p>
+                <Link to="/career-paths" className="btn btn--primary btn--small card__btn">
+                  Explore Career Paths
+                </Link>
               </div>
             </article>
 
@@ -97,7 +139,13 @@ const HomePage = () => {
               </div>
               <div className="card__body">
                 <h3 className="card__title">Resume &amp; Cover Letters</h3>
-                <p className="card__text">Craft the perfect resume and cover letter.</p>
+                <p className="card__text">
+                  Craft the perfect resume and cover letter with our expert tips.
+                  Make a lasting impression on recruiters and land your dream job.
+                </p>
+                <a href="#resources" className="btn btn--primary btn--small card__btn">
+                  View Resume Tips
+                </a>
               </div>
             </article>
 
@@ -107,7 +155,13 @@ const HomePage = () => {
               </div>
               <div className="card__body">
                 <h3 className="card__title">Interview Preparation</h3>
-                <p className="card__text">Ace your next interview with confidence.</p>
+                <p className="card__text">
+                  Ace your next interview with confidence. Learn how to answer
+                  tough questions and present your best self to potential employers.
+                </p>
+                <a href="#resources" className="btn btn--primary btn--small card__btn">
+                  Start Prep
+                </a>
               </div>
             </article>
           </div>
@@ -121,18 +175,41 @@ const HomePage = () => {
             <p className="newsletter__sub">Get the latest career tips and updates</p>
           </div>
 
-          <form className="newsletter__form" onSubmit={(e) => e.preventDefault()}>
+          <form className="newsletter__form" onSubmit={handleSubmit}>
+            <input
+              className="newsletter__input"
+              type="text"
+              name="user_name"
+              placeholder="Enter your name"
+              aria-label="Name"
+              required
+              value={name}
+              onChange={(e) => setName(e.target.value)}
+              disabled={status === 'sending' || status === 'success'}
+            />
             <input
               className="newsletter__input"
               type="email"
+              name="user_email"
               placeholder="Enter your email"
               aria-label="Email"
               required
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              disabled={status === 'sending' || status === 'success'}
             />
-            <button className="btn btn--primary newsletter__btn" type="submit">
-              Subscribe
+            <button
+              className={`btn btn--primary newsletter__btn ${status === 'success' ? 'btn--success' : ''}`}
+              type="submit"
+            >
+              {status === 'sending' ? 'Joining...' : status === 'success' ? 'Joined!' : 'Join Our Community'}
             </button>
           </form>
+          {status === 'success' && (
+            <p className="newsletter__message newsletter__message--success">
+              Welcome {submittedName}! You have successfully joined our community.
+            </p>
+          )}
         </div>
       </section>
     </div>
