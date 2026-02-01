@@ -164,6 +164,22 @@ const HomePage = () => {
                 </a>
               </div>
             </article>
+
+            <article className="card card--resource">
+              <div className="card__media">
+                <img className="card__mediaImg" src="/assets/chatbot.webp" alt="GradBuddy AI" loading="lazy" />
+              </div>
+              <div className="card__body">
+                <h3 className="card__title">GradBuddy AI</h3>
+                <p className="card__text">
+                  Meet your personal career companion. Ask anything about your studies,
+                  career paths, or skills, and get personalized AI guidance instantly.
+                </p>
+                <Link to="/gradbuddy" className="btn btn--primary btn--small card__btn">
+                  Chat with GradBuddy
+                </Link>
+              </div>
+            </article>
           </div>
         </div>
       </section>

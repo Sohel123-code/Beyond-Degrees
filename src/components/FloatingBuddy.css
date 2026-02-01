@@ -1,0 +1,43 @@
+.floating-buddy {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+    color: white;
+    padding: 12px 24px;
+    border-radius: 50px;
+    box-shadow: 0 10px 25px rgba(99, 102, 241, 0.4);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    z-index: 1000;
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s;
+    font-weight: 600;
+}
+
+.floating-buddy:hover {
+    transform: translateY(-5px) scale(1.05);
+    box-shadow: 0 15px 30px rgba(99, 102, 241, 0.5);
+    color: white;
+}
+
+.buddy-icon {
+    font-size: 24px;
+}
+
+.buddy-text {
+    font-size: 0.95rem;
+}
+
+@media (max-width: 640px) {
+    .floating-buddy {
+        bottom: 20px;
+        right: 20px;
+        padding: 12px;
+    }
+
+    .buddy-text {
+        display: none;
+    }
+}
