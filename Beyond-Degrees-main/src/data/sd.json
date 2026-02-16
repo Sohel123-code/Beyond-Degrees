@@ -1,0 +1,1435 @@
+{
+  "careers": [
+    {
+      "career_name": "Data Analyst",
+      "scope_in_india": "High",
+      "degree_required": "Optional",
+      "eligibility": "12th MPC / Any with Maths",
+      "entry_salary": "4 – 7 LPA",
+      "overview": "Data Analysts analyze data to find patterns and insights that help organizations make better business and strategic decisions.",
+      "who_should_choose_this": [
+        "Students who like numbers and data",
+        "People interested in analysis and reports",
+        "Those who enjoy finding patterns"
+      ],
+      "skills_required": [
+        "Statistics basics",
+        "Excel and spreadsheets",
+        "SQL / data querying",
+        "Analytical thinking"
+      ],
+      "learning_paths": [
+        "Degree with analytics or maths",
+        "Online data analytics courses",
+        "Hands-on practice with datasets"
+      ],
+      "career_roadmap": [
+        "Junior Analyst",
+        "Data Analyst",
+        "Senior Analyst",
+        "Data Scientist"
+      ],
+      "salary_in_india": {
+        "entry": "4 – 7 LPA",
+        "mid": "10 – 18 LPA",
+        "high": "25+ LPA"
+      },
+      "work_areas": [
+        "IT",
+        "Finance",
+        "Healthcare",
+        "Consulting"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "High industry demand",
+          "Strong career growth",
+          "Good salary potential"
+        ],
+        "cons": [
+          "Requires strong analytical skills",
+          "Continuous tool learning"
+        ]
+      },
+      "how_to_start": [
+        "Learn Excel and statistics",
+        "Practice with real datasets",
+        "Learn SQL and basic Python",
+        "Apply for analyst roles"
+      ],
+      "resources": [
+        "Online analytics platforms",
+        "Free datasets",
+        "Data analysis tutorials"
+      ],
+      "related_careers": [
+        "Software Engineer",
+        "Business Analyst",
+        "Data Scientist"
+      ]
+    },
+    {
+      "career_name": "Doctor (MBBS)",
+      "scope_in_india": "Very High",
+      "degree_required": "Yes",
+      "eligibility": "12th BiPC + NEET",
+      "entry_salary": "6 – 10 LPA",
+      "overview": "Doctors diagnose, treat, and prevent illnesses. They play a vital role in maintaining public health and saving lives.",
+      "who_should_choose_this": [
+        "Students passionate about healthcare",
+        "Those willing to study long-term",
+        "People who want to help others"
+      ],
+      "skills_required": [
+        "Strong biology knowledge",
+        "Patience and empathy",
+        "Communication skills",
+        "Decision making under pressure"
+      ],
+      "learning_paths": [
+        "MBBS degree",
+        "Internship",
+        "Specialization (MD/MS)"
+      ],
+      "career_roadmap": [
+        "MBBS Student",
+        "Junior Doctor",
+        "Specialist",
+        "Senior Consultant"
+      ],
+      "salary_in_india": {
+        "entry": "6 – 10 LPA",
+        "mid": "15 – 30 LPA",
+        "high": "50+ LPA"
+      },
+      "work_areas": [
+        "Hospitals",
+        "Clinics",
+        "Research",
+        "Private Practice"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "High respect in society",
+          "Job security",
+          "Strong social impact"
+        ],
+        "cons": [
+          "Long study duration",
+          "High workload and pressure"
+        ]
+      },
+      "how_to_start": [
+        "Choose BiPC",
+        "Prepare and clear NEET",
+        "Complete MBBS",
+        "Gain clinical experience"
+      ],
+      "resources": [
+        "Medical textbooks",
+        "NEET preparation platforms",
+        "Hospital training"
+      ],
+      "related_careers": [
+        "Allied Health Professional",
+        "Biotechnologist"
+      ]
+    },
+    {
+      "career_name": "Allied Health Professional",
+      "scope_in_india": "High",
+      "degree_required": "Yes",
+      "eligibility": "12th BiPC",
+      "entry_salary": "3 – 6 LPA",
+      "overview": "Allied Health Professionals support doctors by providing diagnostic, therapeutic, and technical healthcare services to patients.",
+      "who_should_choose_this": [
+        "Students interested in healthcare without becoming a doctor",
+        "Those who prefer practical and patient-focused work",
+        "People who want quicker entry into medical careers"
+      ],
+      "skills_required": [
+        "Basic medical knowledge",
+        "Patient care skills",
+        "Technical skills",
+        "Communication skills"
+      ],
+      "learning_paths": [
+        "Bachelor degree in allied health sciences",
+        "Diploma courses in medical technology",
+        "Hospital-based training programs"
+      ],
+      "career_roadmap": [
+        "Trainee",
+        "Allied Health Professional",
+        "Senior Specialist",
+        "Department Head"
+      ],
+      "salary_in_india": {
+        "entry": "3 – 6 LPA",
+        "mid": "7 – 12 LPA",
+        "high": "15+ LPA"
+      },
+      "work_areas": [
+        "Hospitals",
+        "Diagnostic Centers",
+        "Rehabilitation Centers",
+        "Clinics"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "High demand in healthcare",
+          "Shorter education compared to MBBS",
+          "Job stability"
+        ],
+        "cons": [
+          "Lower salary than doctors",
+          "Shift-based work schedules"
+        ]
+      },
+      "how_to_start": [
+        "Choose BiPC in intermediate",
+        "Select an allied health course",
+        "Complete internship or training",
+        "Apply to hospitals or clinics"
+      ],
+      "resources": [
+        "Medical institutes",
+        "Hospital training programs",
+        "Healthcare education portals"
+      ],
+      "related_careers": [
+        "Doctor (MBBS)",
+        "Biotechnologist",
+        "Forensic Scientist"
+      ]
+    },
+    {
+      "career_name": "Biotechnologist",
+      "scope_in_india": "Medium",
+      "degree_required": "Yes",
+      "eligibility": "12th BiPC",
+      "entry_salary": "3 – 5 LPA",
+      "overview": "Biotechnologists use biological systems and technology to develop products and solutions in healthcare, agriculture, and research.",
+      "who_should_choose_this": [
+        "Students interested in biology and research",
+        "Those curious about genetics and life sciences",
+        "People interested in innovation and laboratories"
+      ],
+      "skills_required": [
+        "Strong biology fundamentals",
+        "Laboratory skills",
+        "Research and analysis",
+        "Attention to detail"
+      ],
+      "learning_paths": [
+        "BSc Biotechnology",
+        "MSc Biotechnology",
+        "Research programs and PhD"
+      ],
+      "career_roadmap": [
+        "Student",
+        "Junior Biotechnologist",
+        "Biotechnologist",
+        "Senior Scientist",
+        "Research Lead"
+      ],
+      "salary_in_india": {
+        "entry": "3 – 5 LPA",
+        "mid": "6 – 10 LPA",
+        "high": "15+ LPA"
+      },
+      "work_areas": [
+        "Pharma Companies",
+        "Research Labs",
+        "Agriculture",
+        "Biotech Firms"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Contribution to science and healthcare",
+          "Global research opportunities",
+          "Growing biotech sector"
+        ],
+        "cons": [
+          "Moderate starting salary",
+          "Higher studies often required"
+        ]
+      },
+      "how_to_start": [
+        "Choose BiPC",
+        "Complete biotechnology degree",
+        "Gain lab experience",
+        "Apply to research labs or companies"
+      ],
+      "resources": [
+        "Biotechnology journals",
+        "Online science courses",
+        "University research portals"
+      ],
+      "related_careers": [
+        "Doctor (MBBS)",
+        "Environmental Scientist",
+        "Food Technologist"
+      ]
+    },
+    {
+      "career_name": "Pilot",
+      "scope_in_india": "High",
+      "degree_required": "No (License Based)",
+      "eligibility": "12th MPC",
+      "entry_salary": "15 – 25 LPA",
+      "overview": "Pilots operate aircraft to transport passengers and goods safely while managing navigation, communication, and flight systems.",
+      "who_should_choose_this": [
+        "Students passionate about flying",
+        "Those comfortable with high responsibility",
+        "People with strong discipline and focus"
+      ],
+      "skills_required": [
+        "High concentration",
+        "Quick decision making",
+        "Physical and mental fitness",
+        "Good communication"
+      ],
+      "learning_paths": [
+        "Complete 12th MPC",
+        "Join DGCA-approved flight school",
+        "Clear medical tests",
+        "Obtain Commercial Pilot License (CPL)"
+      ],
+      "career_roadmap": [
+        "Student Pilot",
+        "Trainee Pilot",
+        "First Officer",
+        "Captain"
+      ],
+      "salary_in_india": {
+        "entry": "15 – 25 LPA",
+        "mid": "40 – 60 LPA",
+        "high": "80+ LPA"
+      },
+      "work_areas": [
+        "Commercial Airlines",
+        "Charter Flights",
+        "Cargo Airlines",
+        "Private Jets"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Very high salary",
+          "Prestige and global exposure",
+          "Travel opportunities"
+        ],
+        "cons": [
+          "Very high training cost",
+          "Strict medical requirements",
+          "Irregular schedules"
+        ]
+      },
+      "how_to_start": [
+        "Choose MPC",
+        "Join flight training academy",
+        "Clear DGCA exams",
+        "Apply to airlines"
+      ],
+      "resources": [
+        "DGCA official website",
+        "Flight training academies",
+        "Aviation career portals"
+      ],
+      "related_careers": [
+        "Commercial Drone Pilot",
+        "Merchant Navy Officer"
+      ]
+    },
+    {
+      "career_name": "Merchant Navy Officer",
+      "scope_in_india": "High",
+      "degree_required": "Yes",
+      "eligibility": "12th MPC",
+      "entry_salary": "7 – 12 LPA",
+      "overview": "Merchant Navy Officers work on commercial ships and are responsible for navigation, ship operations, and cargo management during international voyages.",
+      "who_should_choose_this": [
+        "Students interested in sea travel and adventure",
+        "Those who want international exposure",
+        "People comfortable staying away from home for long periods"
+      ],
+      "skills_required": [
+        "Navigation skills",
+        "Discipline and teamwork",
+        "Physical fitness",
+        "Problem-solving at sea"
+      ],
+      "learning_paths": [
+        "BSc Nautical Science",
+        "Marine Engineering degree",
+        "Training from approved maritime institutes"
+      ],
+      "career_roadmap": [
+        "Trainee Cadet",
+        "Third Officer",
+        "Chief Officer",
+        "Captain"
+      ],
+      "salary_in_india": {
+        "entry": "7 – 12 LPA",
+        "mid": "20 – 40 LPA",
+        "high": "60+ LPA"
+      },
+      "work_areas": [
+        "Cargo Ships",
+        "Oil Tankers",
+        "Container Ships",
+        "Cruise Ships"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "High salary with tax benefits",
+          "International travel",
+          "Fast career growth"
+        ],
+        "cons": [
+          "Long time away from family",
+          "Physically demanding work"
+        ]
+      },
+      "how_to_start": [
+        "Choose MPC",
+        "Join a maritime institute",
+        "Clear medical and entrance tests",
+        "Complete onboard training"
+      ],
+      "resources": [
+        "Maritime training institutes",
+        "DG Shipping portal",
+        "Marine career guides"
+      ],
+      "related_careers": [
+        "Pilot",
+        "Commercial Drone Pilot"
+      ]
+    },
+    {
+      "career_name": "Scientist / Researcher",
+      "scope_in_india": "Medium",
+      "degree_required": "Yes (Masters / PhD)",
+      "eligibility": "12th MPC / BiPC",
+      "entry_salary": "6 – 10 LPA",
+      "overview": "Scientists and Researchers conduct experiments and studies to discover new knowledge, technologies, and solutions in science and engineering fields.",
+      "who_should_choose_this": [
+        "Students interested in deep learning and research",
+        "Those curious about how things work",
+        "People willing to study long-term"
+      ],
+      "skills_required": [
+        "Strong analytical thinking",
+        "Research and experimentation",
+        "Data analysis",
+        "Scientific writing"
+      ],
+      "learning_paths": [
+        "Bachelor’s degree in science or engineering",
+        "Master’s degree",
+        "PhD for advanced research roles"
+      ],
+      "career_roadmap": [
+        "Research Student",
+        "Junior Researcher",
+        "Scientist",
+        "Senior Scientist",
+        "Research Director"
+      ],
+      "salary_in_india": {
+        "entry": "6 – 10 LPA",
+        "mid": "12 – 20 LPA",
+        "high": "30+ LPA"
+      },
+      "work_areas": [
+        "ISRO",
+        "DRDO",
+        "CSIR Labs",
+        "Universities",
+        "Private R&D Centers"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Knowledge-driven career",
+          "Contribution to national development",
+          "Stable government roles"
+        ],
+        "cons": [
+          "Long education period",
+          "Slower financial growth initially"
+        ]
+      },
+      "how_to_start": [
+        "Choose MPC or BiPC",
+        "Complete bachelor’s degree",
+        "Pursue master’s and PhD",
+        "Apply for research institutions"
+      ],
+      "resources": [
+        "Government research portals",
+        "Academic journals",
+        "University research programs"
+      ],
+      "related_careers": [
+        "Environmental Scientist",
+        "Forensic Scientist",
+        "Biotechnologist"
+      ]
+    },
+    {
+      "career_name": "Architect",
+      "scope_in_india": "Medium",
+      "degree_required": "Yes",
+      "eligibility": "12th MPC",
+      "entry_salary": "3 – 6 LPA",
+      "overview": "Architects design buildings and spaces by combining creativity, engineering principles, and functionality to meet human needs.",
+      "who_should_choose_this": [
+        "Students interested in design and creativity",
+        "Those who like drawing and planning",
+        "People interested in buildings and structures"
+      ],
+      "skills_required": [
+        "Creative thinking",
+        "Design and drawing skills",
+        "Technical knowledge",
+        "Attention to detail"
+      ],
+      "learning_paths": [
+        "Bachelor of Architecture (B.Arch)",
+        "Internship and practical training",
+        "Architecture license registration"
+      ],
+      "career_roadmap": [
+        "Architecture Student",
+        "Junior Architect",
+        "Architect",
+        "Senior Architect",
+        "Principal Architect"
+      ],
+      "salary_in_india": {
+        "entry": "3 – 6 LPA",
+        "mid": "8 – 15 LPA",
+        "high": "25+ LPA"
+      },
+      "work_areas": [
+        "Architecture Firms",
+        "Construction Companies",
+        "Urban Planning",
+        "Freelancing"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Creative profession",
+          "Visible real-world impact",
+          "Self-practice opportunities"
+        ],
+        "cons": [
+          "Long working hours",
+          "Moderate starting salary"
+        ]
+      },
+      "how_to_start": [
+        "Choose MPC",
+        "Clear architecture entrance exams",
+        "Complete B.Arch degree",
+        "Register as an architect"
+      ],
+      "resources": [
+        "Architecture institutes",
+        "Design software tutorials",
+        "Professional architecture bodies"
+      ],
+      "related_careers": [
+        "Civil Engineer",
+        "Urban Planner",
+        "Interior Designer"
+      ]
+    },
+    {
+      "career_name": "Cyber Security Analyst",
+      "scope_in_india": "Very High",
+      "degree_required": "Optional",
+      "eligibility": "12th MPC",
+      "entry_salary": "5 – 8 LPA",
+      "overview": "Cyber Security Analysts protect systems, networks, and data from cyber attacks by monitoring, detecting, and responding to security threats.",
+      "who_should_choose_this": [
+        "Students interested in computers and security",
+        "Those who enjoy problem-solving and investigation",
+        "People who like protecting systems and data"
+      ],
+      "skills_required": [
+        "Networking basics",
+        "Operating system knowledge",
+        "Security concepts",
+        "Analytical thinking"
+      ],
+      "learning_paths": [
+        "Computer science degree or related field",
+        "Cyber security certifications",
+        "Hands-on labs and practice"
+      ],
+      "career_roadmap": [
+        "Security Trainee",
+        "Cyber Security Analyst",
+        "Senior Analyst",
+        "Security Architect"
+      ],
+      "salary_in_india": {
+        "entry": "5 – 8 LPA",
+        "mid": "12 – 20 LPA",
+        "high": "30+ LPA"
+      },
+      "work_areas": [
+        "IT Companies",
+        "Banks",
+        "Government Organizations",
+        "MNCs"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Very high demand",
+          "Strong job security",
+          "High salary growth"
+        ],
+        "cons": [
+          "High responsibility",
+          "Continuous learning required"
+        ]
+      },
+      "how_to_start": [
+        "Learn networking and OS basics",
+        "Study cyber security fundamentals",
+        "Practice with labs and tools",
+        "Apply for entry-level security roles"
+      ],
+      "resources": [
+        "Cyber security learning platforms",
+        "Practice labs",
+        "Security blogs and communities"
+      ],
+      "related_careers": [
+        "Ethical Hacker",
+        "Network Engineer",
+        "Cloud Security Engineer"
+      ]
+    },
+    {
+      "career_name": "AI / Machine Learning Engineer",
+      "scope_in_india": "Very High",
+      "degree_required": "Optional",
+      "eligibility": "12th MPC",
+      "entry_salary": "6 – 10 LPA",
+      "overview": "AI and Machine Learning Engineers build systems that can learn from data and make intelligent decisions automatically.",
+      "who_should_choose_this": [
+        "Students interested in mathematics and programming",
+        "Those curious about artificial intelligence",
+        "People who enjoy solving complex problems"
+      ],
+      "skills_required": [
+        "Programming (Python)",
+        "Mathematics and statistics",
+        "Data handling",
+        "Logical thinking"
+      ],
+      "learning_paths": [
+        "Computer science or related degree",
+        "Online AI/ML courses",
+        "Hands-on projects and research"
+      ],
+      "career_roadmap": [
+        "ML Intern",
+        "Machine Learning Engineer",
+        "Senior ML Engineer",
+        "AI Architect"
+      ],
+      "salary_in_india": {
+        "entry": "6 – 10 LPA",
+        "mid": "15 – 30 LPA",
+        "high": "50+ LPA"
+      },
+      "work_areas": [
+        "IT Companies",
+        "Research Labs",
+        "Startups",
+        "Product Companies"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Future-proof career",
+          "Very high salary potential",
+          "Work on cutting-edge technology"
+        ],
+        "cons": [
+          "Steep learning curve",
+          "Strong maths required"
+        ]
+      },
+      "how_to_start": [
+        "Learn Python and maths basics",
+        "Study machine learning concepts",
+        "Build ML projects",
+        "Apply for ML roles or internships"
+      ],
+      "resources": [
+        "AI/ML online courses",
+        "Research papers",
+        "Open-source ML libraries"
+      ],
+      "related_careers": [
+        "Data Scientist",
+        "Data Analyst",
+        "Software Engineer"
+      ]
+    },
+    {
+      "career_name": "Cloud Engineer",
+      "scope_in_india": "Very High",
+      "degree_required": "Optional",
+      "eligibility": "12th MPC",
+      "entry_salary": "5 – 8 LPA",
+      "overview": "Cloud Engineers design, deploy, and manage cloud-based infrastructure and services for organizations.",
+      "who_should_choose_this": [
+        "Students interested in IT infrastructure",
+        "Those who like managing systems and platforms",
+        "People interested in modern IT technologies"
+      ],
+      "skills_required": [
+        "Networking fundamentals",
+        "Linux basics",
+        "Cloud platforms knowledge",
+        "Problem-solving skills"
+      ],
+      "learning_paths": [
+        "IT or computer science degree",
+        "Cloud certifications",
+        "Hands-on cloud projects"
+      ],
+      "career_roadmap": [
+        "Cloud Trainee",
+        "Cloud Engineer",
+        "Senior Cloud Engineer",
+        "Cloud Architect"
+      ],
+      "salary_in_india": {
+        "entry": "5 – 8 LPA",
+        "mid": "12 – 20 LPA",
+        "high": "35+ LPA"
+      },
+      "work_areas": [
+        "IT Firms",
+        "MNCs",
+        "Startups",
+        "Data Centers"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "High demand",
+          "Good salary growth",
+          "Works with latest technologies"
+        ],
+        "cons": [
+          "On-call responsibilities",
+          "Continuous upskilling required"
+        ]
+      },
+      "how_to_start": [
+        "Learn networking and Linux",
+        "Study cloud fundamentals",
+        "Get cloud certification",
+        "Apply for cloud roles"
+      ],
+      "resources": [
+        "Cloud provider learning portals",
+        "Online labs",
+        "Cloud documentation"
+      ],
+      "related_careers": [
+        "DevOps Engineer",
+        "Cyber Security Analyst",
+        "Network Engineer"
+      ]
+    },
+    {
+      "career_name": "UI/UX Designer",
+      "scope_in_india": "High",
+      "degree_required": "No",
+      "eligibility": "12th Any Stream",
+      "entry_salary": "3 – 6 LPA",
+      "overview": "UI/UX Designers focus on designing user-friendly and visually appealing digital products such as websites and mobile apps by improving user experience and interface design.",
+      "who_should_choose_this": [
+        "Students interested in design and creativity",
+        "Those who like understanding user behavior",
+        "People who enjoy visual problem-solving"
+      ],
+      "skills_required": [
+        "Design thinking",
+        "Creativity",
+        "Basic design tools",
+        "User research understanding"
+      ],
+      "learning_paths": [
+        "UI/UX design courses",
+        "Design bootcamps",
+        "Self-learning with design projects"
+      ],
+      "career_roadmap": [
+        "UI/UX Intern",
+        "UI/UX Designer",
+        "Senior Designer",
+        "Design Lead"
+      ],
+      "salary_in_india": {
+        "entry": "3 – 6 LPA",
+        "mid": "8 – 15 LPA",
+        "high": "25+ LPA"
+      },
+      "work_areas": [
+        "IT Companies",
+        "Product Companies",
+        "Startups",
+        "Freelancing"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Creative career",
+          "High demand in tech",
+          "Freelancing opportunities"
+        ],
+        "cons": [
+          "Subjective feedback",
+          "Portfolio building takes time"
+        ]
+      },
+      "how_to_start": [
+        "Learn UI/UX basics",
+        "Practice design tools",
+        "Build a design portfolio",
+        "Apply for junior roles"
+      ],
+      "resources": [
+        "Design learning platforms",
+        "UI/UX communities",
+        "Design tool tutorials"
+      ],
+      "related_careers": [
+        "Graphic Designer",
+        "Product Designer",
+        "Web Developer"
+      ]
+    },
+    {
+      "career_name": "Game Developer",
+      "scope_in_india": "Medium-High",
+      "degree_required": "Optional",
+      "eligibility": "12th MPC",
+      "entry_salary": "4 – 7 LPA",
+      "overview": "Game Developers create video games for computers, consoles, and mobile devices by combining programming, creativity, and storytelling.",
+      "who_should_choose_this": [
+        "Students passionate about gaming",
+        "Those interested in programming and creativity",
+        "People who enjoy interactive media"
+      ],
+      "skills_required": [
+        "Programming skills",
+        "Game engines knowledge",
+        "Creativity",
+        "Problem-solving"
+      ],
+      "learning_paths": [
+        "Computer science or game development degree",
+        "Online game development courses",
+        "Self-learning with game projects"
+      ],
+      "career_roadmap": [
+        "Game Tester / Intern",
+        "Game Developer",
+        "Senior Developer",
+        "Game Director"
+      ],
+      "salary_in_india": {
+        "entry": "4 – 7 LPA",
+        "mid": "10 – 18 LPA",
+        "high": "30+ LPA"
+      },
+      "work_areas": [
+        "Gaming Studios",
+        "Mobile App Companies",
+        "Indie Game Development",
+        "Freelancing"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Creative and fun work",
+          "Global opportunities",
+          "Growing gaming industry"
+        ],
+        "cons": [
+          "High competition",
+          "Long development hours"
+        ]
+      },
+      "how_to_start": [
+        "Learn programming basics",
+        "Study a game engine",
+        "Build small games",
+        "Apply to studios or publish games"
+      ],
+      "resources": [
+        "Game development platforms",
+        "Online tutorials",
+        "Game developer communities"
+      ],
+      "related_careers": [
+        "Software Engineer",
+        "UI/UX Designer",
+        "AR/VR Developer"
+      ]
+    },
+    {
+      "career_name": "Ethical Hacker",
+      "scope_in_india": "Very High",
+      "degree_required": "No",
+      "eligibility": "12th MPC",
+      "entry_salary": "5 – 9 LPA",
+      "overview": "Ethical Hackers legally test systems and networks to find security vulnerabilities and help organizations protect their data from cyber attacks.",
+      "who_should_choose_this": [
+        "Students curious about hacking and security",
+        "Those who enjoy investigation and problem-solving",
+        "People interested in protecting digital systems"
+      ],
+      "skills_required": [
+        "Networking knowledge",
+        "Operating system basics",
+        "Cyber security concepts",
+        "Analytical thinking"
+      ],
+      "learning_paths": [
+        "Cyber security courses",
+        "Ethical hacking certifications",
+        "Hands-on practice and labs"
+      ],
+      "career_roadmap": [
+        "Security Trainee",
+        "Ethical Hacker",
+        "Senior Security Analyst",
+        "Security Consultant"
+      ],
+      "salary_in_india": {
+        "entry": "5 – 9 LPA",
+        "mid": "12 – 22 LPA",
+        "high": "40+ LPA"
+      },
+      "work_areas": [
+        "IT Companies",
+        "Banks",
+        "Government Organizations",
+        "Freelancing"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Very high demand",
+          "High salary growth",
+          "Challenging work"
+        ],
+        "cons": [
+          "Continuous learning required",
+          "High responsibility"
+        ]
+      },
+      "how_to_start": [
+        "Learn networking and OS basics",
+        "Study cyber security fundamentals",
+        "Practice ethical hacking tools",
+        "Get certified and apply for roles"
+      ],
+      "resources": [
+        "Cyber security training platforms",
+        "Practice labs",
+        "Security forums"
+      ],
+      "related_careers": [
+        "Cyber Security Analyst",
+        "Cloud Security Engineer",
+        "Network Engineer"
+      ]
+    },
+    {
+      "career_name": "Forensic Scientist",
+      "scope_in_india": "Medium",
+      "degree_required": "Yes",
+      "eligibility": "12th BiPC / MPC",
+      "entry_salary": "4 – 6 LPA",
+      "overview": "Forensic Scientists analyze physical evidence from crime scenes using scientific methods to help investigations and support the justice system.",
+      "who_should_choose_this": [
+        "Students interested in science and investigation",
+        "Those who like laboratory and analytical work",
+        "People who want to support law and justice"
+      ],
+      "skills_required": [
+        "Analytical thinking",
+        "Attention to detail",
+        "Laboratory skills",
+        "Report writing"
+      ],
+      "learning_paths": [
+        "BSc Forensic Science",
+        "MSc Forensic Science",
+        "Specialized forensic certifications"
+      ],
+      "career_roadmap": [
+        "Forensic Trainee",
+        "Forensic Analyst",
+        "Forensic Scientist",
+        "Senior Forensic Expert"
+      ],
+      "salary_in_india": {
+        "entry": "4 – 6 LPA",
+        "mid": "7 – 12 LPA",
+        "high": "18+ LPA"
+      },
+      "work_areas": [
+        "Crime Laboratories",
+        "Police Departments",
+        "Government Forensic Labs",
+        "Research Institutions"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Important role in justice system",
+          "Challenging and analytical work",
+          "Stable government jobs"
+        ],
+        "cons": [
+          "Limited openings",
+          "High responsibility and pressure"
+        ]
+      },
+      "how_to_start": [
+        "Choose BiPC or MPC",
+        "Complete forensic science degree",
+        "Gain lab experience",
+        "Apply to forensic labs or police departments"
+      ],
+      "resources": [
+        "Forensic science institutes",
+        "Government forensic portals",
+        "Scientific journals"
+      ],
+      "related_careers": [
+        "Scientist / Researcher",
+        "Cyber Security Analyst",
+        "Allied Health Professional"
+      ]
+    },
+    {
+      "career_name": "Environmental Scientist",
+      "scope_in_india": "Medium",
+      "degree_required": "Yes",
+      "eligibility": "12th BiPC / MPC",
+      "entry_salary": "3 – 5 LPA",
+      "overview": "Environmental Scientists study environmental problems like pollution and climate change and help develop solutions to protect nature and public health.",
+      "who_should_choose_this": [
+        "Students interested in nature and environment",
+        "Those passionate about sustainability",
+        "People who want meaningful impact careers"
+      ],
+      "skills_required": [
+        "Research and analysis",
+        "Data interpretation",
+        "Field observation",
+        "Report writing"
+      ],
+      "learning_paths": [
+        "BSc Environmental Science",
+        "MSc Environmental Science",
+        "Environmental certifications"
+      ],
+      "career_roadmap": [
+        "Environmental Analyst",
+        "Environmental Scientist",
+        "Senior Scientist",
+        "Project Lead / Policy Advisor"
+      ],
+      "salary_in_india": {
+        "entry": "3 – 5 LPA",
+        "mid": "6 – 10 LPA",
+        "high": "15+ LPA"
+      },
+      "work_areas": [
+        "NGOs",
+        "Government Projects",
+        "Environmental Consultancies",
+        "Research Institutes"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Socially meaningful work",
+          "Growing importance",
+          "Diverse field and desk work"
+        ],
+        "cons": [
+          "Moderate starting salary",
+          "Field work can be demanding"
+        ]
+      },
+      "how_to_start": [
+        "Choose BiPC or MPC",
+        "Complete environmental science degree",
+        "Participate in field projects",
+        "Apply to NGOs or government roles"
+      ],
+      "resources": [
+        "Environmental study platforms",
+        "Government environment portals",
+        "Research publications"
+      ],
+      "related_careers": [
+        "Environmental Engineer",
+        "Climate Change Analyst",
+        "Wildlife Conservationist"
+      ]
+    },
+    {
+      "career_name": "Food Technologist",
+      "scope_in_india": "High",
+      "degree_required": "Yes",
+      "eligibility": "12th BiPC",
+      "entry_salary": "3 – 5 LPA",
+      "overview": "Food Technologists develop, test, and improve food products while ensuring safety, quality, and nutrition standards.",
+      "who_should_choose_this": [
+        "Students interested in food science and nutrition",
+        "Those who like laboratory and quality work",
+        "People interested in the food industry"
+      ],
+      "skills_required": [
+        "Food science knowledge",
+        "Quality control",
+        "Analytical skills",
+        "Attention to hygiene and safety"
+      ],
+      "learning_paths": [
+        "BSc Food Technology",
+        "MSc Food Technology",
+        "Food safety certifications"
+      ],
+      "career_roadmap": [
+        "Food Quality Trainee",
+        "Food Technologist",
+        "Senior Technologist",
+        "Quality Manager / R&D Head"
+      ],
+      "salary_in_india": {
+        "entry": "3 – 5 LPA",
+        "mid": "6 – 10 LPA",
+        "high": "15+ LPA"
+      },
+      "work_areas": [
+        "Food Manufacturing Companies",
+        "Quality Control Labs",
+        "R&D Departments",
+        "Food Processing Units"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "High demand in food industry",
+          "Stable career options",
+          "Wide industry presence"
+        ],
+        "cons": [
+          "Moderate starting salary",
+          "Strict quality regulations"
+        ]
+      },
+      "how_to_start": [
+        "Choose BiPC",
+        "Complete food technology degree",
+        "Gain internship experience",
+        "Apply to food companies"
+      ],
+      "resources": [
+        "Food technology institutes",
+        "Food safety authority portals",
+        "Industry training programs"
+      ],
+      "related_careers": [
+        "Nutritionist",
+        "Quality Analyst",
+        "Biotechnologist"
+      ]
+    },
+    {
+      "career_name": "Defense Officer (NDA)",
+      "scope_in_india": "High",
+      "degree_required": "Yes (via NDA)",
+      "eligibility": "12th MPC",
+      "entry_salary": "6 – 8 LPA",
+      "overview": "Defense Officers serve in the Indian Army, Navy, or Air Force, leading teams and protecting the nation through strategic, technical, and operational roles.",
+      "who_should_choose_this": [
+        "Students passionate about serving the nation",
+        "Those with leadership and discipline",
+        "People comfortable with physical and mental challenges"
+      ],
+      "skills_required": [
+        "Leadership and teamwork",
+        "Physical fitness",
+        "Decision making",
+        "Discipline and integrity"
+      ],
+      "learning_paths": [
+        "Clear NDA examination",
+        "Training at National Defence Academy",
+        "Specialized service training"
+      ],
+      "career_roadmap": [
+        "Cadet",
+        "Lieutenant / Sub-Lieutenant / Flying Officer",
+        "Captain / Lieutenant",
+        "Major / Commander",
+        "Senior Officer"
+      ],
+      "salary_in_india": {
+        "entry": "6 – 8 LPA",
+        "mid": "10 – 18 LPA",
+        "high": "25+ LPA"
+      },
+      "work_areas": [
+        "Indian Army",
+        "Indian Navy",
+        "Indian Air Force"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "High respect and pride",
+          "Job security",
+          "Facilities and benefits"
+        ],
+        "cons": [
+          "High physical and mental demands",
+          "Frequent transfers"
+        ]
+      },
+      "how_to_start": [
+        "Choose MPC",
+        "Prepare for NDA exam",
+        "Clear SSB interview",
+        "Complete NDA training"
+      ],
+      "resources": [
+        "UPSC NDA portal",
+        "Defense preparation academies",
+        "Official defense websites"
+      ],
+      "related_careers": [
+        "Merchant Navy Officer",
+        "Pilot",
+        "Defense Research Scientist"
+      ]
+    },
+    {
+      "career_name": "Commercial Drone Pilot",
+      "scope_in_india": "High",
+      "degree_required": "No (DGCA License)",
+      "eligibility": "12th Any Stream",
+      "entry_salary": "4 – 6 LPA",
+      "overview": "Commercial Drone Pilots operate drones for professional purposes such as surveying, agriculture monitoring, filming, and defense applications.",
+      "who_should_choose_this": [
+        "Students interested in flying technology",
+        "Those who like field-based technical work",
+        "People interested in modern aviation careers"
+      ],
+      "skills_required": [
+        "Drone operation skills",
+        "Hand-eye coordination",
+        "Basic technical knowledge",
+        "Safety awareness"
+      ],
+      "learning_paths": [
+        "DGCA-approved drone training",
+        "Obtain remote pilot certificate",
+        "Practice with commercial drone operations"
+      ],
+      "career_roadmap": [
+        "Drone Trainee",
+        "Commercial Drone Pilot",
+        "Senior Drone Operator",
+        "Drone Operations Manager"
+      ],
+      "salary_in_india": {
+        "entry": "4 – 6 LPA",
+        "mid": "8 – 12 LPA",
+        "high": "20+ LPA"
+      },
+      "work_areas": [
+        "Agriculture",
+        "Defense",
+        "Media and Filmmaking",
+        "Survey and Mapping"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Emerging high-growth field",
+          "Short training period",
+          "Freelance opportunities"
+        ],
+        "cons": [
+          "Weather-dependent work",
+          "Regulatory limitations"
+        ]
+      },
+      "how_to_start": [
+        "Complete basic education",
+        "Enroll in DGCA-approved drone training",
+        "Get licensed",
+        "Apply to companies or freelance"
+      ],
+      "resources": [
+        "DGCA drone portal",
+        "Drone training academies",
+        "Aviation technology platforms"
+      ],
+      "related_careers": [
+        "Pilot",
+        "Defense Officer (NDA)",
+        "Survey Engineer"
+      ]
+    },
+    {
+      "career_name": "Robotics Engineer",
+      "scope_in_india": "High",
+      "degree_required": "Optional",
+      "eligibility": "12th MPC",
+      "entry_salary": "5 – 8 LPA",
+      "overview": "Robotics Engineers design, build, and maintain robots and automated systems used in manufacturing, healthcare, and research.",
+      "who_should_choose_this": [
+        "Students interested in machines and automation",
+        "Those who like electronics and programming",
+        "People curious about future technologies"
+      ],
+      "skills_required": [
+        "Programming basics",
+        "Electronics and mechanics",
+        "Problem-solving",
+        "Analytical thinking"
+      ],
+      "learning_paths": [
+        "Engineering degree in robotics or related field",
+        "Online robotics courses",
+        "Hands-on robotics projects"
+      ],
+      "career_roadmap": [
+        "Robotics Trainee",
+        "Robotics Engineer",
+        "Senior Engineer",
+        "Automation Architect"
+      ],
+      "salary_in_india": {
+        "entry": "5 – 8 LPA",
+        "mid": "12 – 20 LPA",
+        "high": "35+ LPA"
+      },
+      "work_areas": [
+        "Manufacturing",
+        "Automation Companies",
+        "R&D Labs",
+        "Healthcare Technology"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "Future-focused career",
+          "High innovation exposure",
+          "Good salary growth"
+        ],
+        "cons": [
+          "Strong technical skills required",
+          "Continuous learning needed"
+        ]
+      },
+      "how_to_start": [
+        "Choose MPC",
+        "Learn basics of electronics and coding",
+        "Build robotics projects",
+        "Apply for robotics roles or internships"
+      ],
+      "resources": [
+        "Robotics learning platforms",
+        "Engineering institutes",
+        "Open-source robotics communities"
+      ],
+      "related_careers": [
+        "AI / Machine Learning Engineer",
+        "Automation Engineer",
+        "Mechatronics Engineer"
+      ]
+    },
+    {
+      "career_name": "Science Content Creator",
+      "scope_in_india": "High",
+      "degree_required": "No",
+      "eligibility": "12th Any Stream",
+      "entry_salary": "2 – 5 LPA",
+      "overview": "Science Content Creators explain scientific concepts in simple ways using videos, articles, graphics, or podcasts for students and the general public.",
+      "who_should_choose_this": [
+        "Students who enjoy teaching and explaining concepts",
+        "Those interested in science and communication",
+        "People who like creating videos, writing, or digital content"
+      ],
+      "skills_required": [
+        "Strong subject understanding",
+        "Communication skills",
+        "Creativity",
+        "Basic video or content editing"
+      ],
+      "learning_paths": [
+        "Self-learning and practice",
+        "Online content creation courses",
+        "Building content on platforms like YouTube or blogs"
+      ],
+      "career_roadmap": [
+        "Beginner Content Creator",
+        "Growing Channel / Platform",
+        "Established Creator",
+        "Educator / EdTech Partner"
+      ],
+      "salary_in_india": {
+        "entry": "2 – 5 LPA",
+        "mid": "6 – 12 LPA",
+        "high": "30+ LPA"
+      },
+      "work_areas": [
+        "YouTube",
+        "EdTech Platforms",
+        "Online Education Websites",
+        "Freelancing"
+      ],
+      "pros_and_cons": {
+        "pros": [
+          "High creative freedom",
+          "Flexible working style",
+          "Unlimited earning potential"
+        ],
+        "cons": [
+          "Income not stable initially",
+          "Requires consistency and patience"
+        ]
+      },
+      "how_to_start": [
+        "Choose a science topic you are good at",
+        "Start creating simple content regularly",
+        "Post on digital platforms",
+        "Improve quality and grow audience"
+      ],
+      "resources": [
+        "Free online teaching tools",
+        "Content creation tutorials",
+        "Creator communities"
+      ],
+      "related_careers": [
+        "Teacher",
+        "Online Tutor",
+        "Educational Consultant"
+      ]
+    }
+  ]
+}

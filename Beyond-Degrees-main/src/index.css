@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --page-bg: #f6f9ff;
+  --surface: #ffffff;
+  --text: #0f172a;
+  --muted: #64748b;
+  --brand: #2f5fa7;
+  --brand-hover: #2a5392;
+  --shadow: 0 10px 26px rgba(15, 23, 42, 0.06);
+  --shadow-lg: 0 18px 40px rgba(15, 23, 42, 0.10);
+
+  /* Cursor Tracking Variables */
+  --mouse-x: 50%;
+  --mouse-y: 50%;
+}
+
+body {
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: var(--page-bg);
+  color: var(--text);
+  line-height: 1.6;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+}
+
+/* Premium Background Blobs */
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(47, 95, 167, 0.08) 0%, rgba(47, 95, 167, 0) 70%);
+  filter: blur(80px);
+  z-index: -1;
+  pointer-events: none;
+  animation: float 20s infinite alternate ease-in-out;
+}
+
+body::before {
+  top: -100px;
+  left: -100px;
+}
+
+body::after {
+  bottom: -100px;
+  right: -100px;
+  animation-delay: -10s;
+  background: radial-gradient(circle, rgba(139, 92, 246, 0.08) 0%, rgba(139, 92, 246, 0) 70%);
+}
+
+@keyframes float {
+  0% {
+    transform: translate(0, 0) scale(1);
+  }
+
+  100% {
+    transform: translate(100px, 50px) scale(1.1);
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#root {
+  min-height: 100vh;
+}

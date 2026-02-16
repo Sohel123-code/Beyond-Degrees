@@ -1,0 +1,122 @@
+[
+    {
+        "title": "JavaScript Tutorial for Beginners",
+        "creator": "Programming with Mosh",
+        "link": "https://youtu.be/W6NZfCO5SIk",
+        "topic": "Frontend Development"
+    },
+    {
+        "title": "Python Full Course for Beginners",
+        "creator": "Programming with Mosh",
+        "link": "https://youtu.be/_uQrJ0TkZlc",
+        "topic": "Python Programming"
+    },
+    {
+        "title": "C++ Tutorial for Beginners",
+        "creator": "FreeCodeCamp",
+        "link": "https://youtu.be/vLnPwxZdW4Y",
+        "topic": "C++ Programming"
+    },
+    {
+        "title": "DSA Full Course – Learn Data Structures",
+        "creator": "Abdul Bari",
+        "link": "https://youtu.be/8hly31xKli0",
+        "topic": "Data Structures"
+    },
+    {
+        "title": "React JS Full Course",
+        "creator": "Dave Gray",
+        "link": "https://youtu.be/Dorf8i6lCuk",
+        "topic": "React Development"
+    },
+    {
+        "title": "HTML & CSS Crash Course",
+        "creator": "DesignCourse",
+        "link": "https://youtu.be/UB1O30fR-EE",
+        "topic": "Web Design"
+    },
+    {
+        "title": "Git & GitHub for Beginners",
+        "creator": "The Net Ninja",
+        "link": "https://youtu.be/RGOj5yH7evk",
+        "topic": "Version Control"
+    },
+    {
+        "title": "Node.js Crash Course",
+        "creator": "Traversy Media",
+        "link": "https://youtu.be/fBNz5xF-Kx4",
+        "topic": "Backend Development"
+    },
+    {
+        "title": "SQL Tutorial for Beginners",
+        "creator": "Programming with Mosh",
+        "link": "https://youtu.be/HXV3zeQKqGY",
+        "topic": "Databases"
+    },
+    {
+        "title": "Machine Learning Crash Course",
+        "creator": "Google",
+        "link": "https://youtu.be/GwIo3gDZCVQ",
+        "topic": "Machine Learning"
+    },
+    {
+        "title": "The Complete Data Science Roadmap (CodeWithHarry)",
+        "creator": "CodeWithHarry",
+        "link": "http://www.youtube.com/watch?v=yBcfzZJ-gS8",
+        "topic": "Data Science"
+    },
+    {
+        "title": "DSA Sorting Algorithms",
+        "creator": "Jenny's Lectures",
+        "link": "https://youtu.be/pkkFqlG0Hds",
+        "topic": "Algorithms"
+    },
+    {
+        "title": "Binary Search Tree Explained",
+        "creator": "MyCodeSchool",
+        "link": "https://youtu.be/COZK7NATh4k",
+        "topic": "Data Structures"
+    },
+    {
+        "title": "API Development Crash Course",
+        "creator": "FreeCodeCamp",
+        "link": "https://youtu.be/7YcW25PHnAA",
+        "topic": "API Development"
+    },
+    {
+        "title": "CSS Grid Tutorial",
+        "creator": "Kevin Powell",
+        "link": "https://youtu.be/jV8B24rSN5o",
+        "topic": "CSS Grid"
+    },
+    {
+        "title": "Tailwind CSS Crash Course",
+        "creator": "Traversy Media",
+        "link": "https://youtu.be/dFgzHOX84xQ",
+        "topic": "Tailwind CSS"
+    },
+    {
+        "title": "Python OOP Tutorial",
+        "creator": "Corey Schafer",
+        "link": "https://youtu.be/JeznW_7DlB0",
+        "topic": "Python OOP"
+    },
+    {
+        "title": "TypeScript Basics",
+        "creator": "Programming with Mosh",
+        "link": "https://youtu.be/BwuLxPH8IDs",
+        "topic": "TypeScript"
+    },
+    {
+        "title": "Docker for Beginners",
+        "creator": "NetworkChuck",
+        "link": "https://youtu.be/3c-iBn73dDE",
+        "topic": "DevOps"
+    },
+    {
+        "title": "Logic Building in Programming (CodeWithHarry)",
+        "creator": "CodeWithHarry",
+        "link": "http://www.youtube.com/watch?v=gCFkkYZSxOc",
+        "topic": "Programming Logic"
+    }
+]

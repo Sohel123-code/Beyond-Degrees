@@ -1,0 +1,292 @@
+{
+  "science_students_careers": [
+    {
+      "career_name": "Software Engineer",
+      "category": "Engineering & Technology",
+      "eligibility": "12th MPC",
+      "degree_required": "Optional",
+      "scope_in_india": "Very High",
+      "work_areas": ["IT Companies", "Startups", "Freelancing", "Remote Jobs"],
+      "salary_range_inr": {
+        "entry_level": "3 – 6 LPA",
+        "mid_level": "8 – 15 LPA",
+        "high_level": "20+ LPA"
+      }
+    },
+    {
+      "career_name": "Data Analyst",
+      "category": "Data & Analytics",
+      "eligibility": "12th MPC / Any with Maths",
+      "degree_required": "Optional",
+      "scope_in_india": "High",
+      "work_areas": ["IT", "Finance", "Healthcare", "Consulting"],
+      "salary_range_inr": {
+        "entry_level": "4 – 7 LPA",
+        "mid_level": "10 – 18 LPA",
+        "high_level": "25+ LPA"
+      }
+    },
+    {
+      "career_name": "Doctor (MBBS)",
+      "category": "Medical",
+      "eligibility": "12th BiPC + NEET",
+      "degree_required": "Yes",
+      "scope_in_india": "Very High",
+      "work_areas": ["Hospitals", "Clinics", "Research", "Private Practice"],
+      "salary_range_inr": {
+        "entry_level": "6 – 10 LPA",
+        "mid_level": "15 – 30 LPA",
+        "high_level": "50+ LPA"
+      }
+    },
+    {
+      "career_name": "Allied Health Professional",
+      "category": "Medical (Alternate)",
+      "eligibility": "12th BiPC",
+      "degree_required": "Yes",
+      "scope_in_india": "High",
+      "work_areas": ["Hospitals", "Diagnostics", "Rehabilitation"],
+      "salary_range_inr": {
+        "entry_level": "3 – 6 LPA",
+        "mid_level": "7 – 12 LPA",
+        "high_level": "15+ LPA"
+      }
+    },
+    {
+      "career_name": "Biotechnologist",
+      "category": "Life Sciences",
+      "eligibility": "12th BiPC",
+      "degree_required": "Yes",
+      "scope_in_india": "Medium",
+      "work_areas": ["Pharma", "Research Labs", "Agriculture"],
+      "salary_range_inr": {
+        "entry_level": "3 – 5 LPA",
+        "mid_level": "6 – 10 LPA",
+        "high_level": "15+ LPA"
+      }
+    },
+    {
+      "career_name": "Pilot",
+      "category": "Aviation",
+      "eligibility": "12th MPC",
+      "degree_required": "No (License Based)",
+      "scope_in_india": "High",
+      "work_areas": ["Commercial Airlines", "Charter Flights"],
+      "salary_range_inr": {
+        "entry_level": "15 – 25 LPA",
+        "mid_level": "40 – 60 LPA",
+        "high_level": "80+ LPA"
+      }
+    },
+    {
+      "career_name": "Merchant Navy Officer",
+      "category": "Marine",
+      "eligibility": "12th MPC",
+      "degree_required": "Yes",
+      "scope_in_india": "High",
+      "work_areas": ["Cargo Ships", "Oil Tankers", "Cruise Ships"],
+      "salary_range_inr": {
+        "entry_level": "7 – 12 LPA",
+        "mid_level": "20 – 40 LPA",
+        "high_level": "60+ LPA"
+      }
+    },
+    {
+      "career_name": "Scientist / Researcher",
+      "category": "Research & Development",
+      "eligibility": "12th MPC / BiPC",
+      "degree_required": "Yes (Masters/PhD)",
+      "scope_in_india": "Medium",
+      "work_areas": ["ISRO", "DRDO", "CSIR", "Universities"],
+      "salary_range_inr": {
+        "entry_level": "6 – 10 LPA",
+        "mid_level": "12 – 20 LPA",
+        "high_level": "30+ LPA"
+      }
+    },
+    {
+      "career_name": "Architect",
+      "category": "Design & Construction",
+      "eligibility": "12th MPC",
+      "degree_required": "Yes",
+      "scope_in_india": "Medium",
+      "work_areas": ["Architecture Firms", "Construction", "Freelancing"],
+      "salary_range_inr": {
+        "entry_level": "3 – 6 LPA",
+        "mid_level": "8 – 15 LPA",
+        "high_level": "25+ LPA"
+      }
+    },
+    {
+      "career_name": "Cyber Security Analyst",
+      "category": "IT Security",
+      "eligibility": "12th MPC",
+      "degree_required": "Optional",
+      "scope_in_india": "Very High",
+      "work_areas": ["IT Firms", "Banks", "Government", "MNCs"],
+      "salary_range_inr": {
+        "entry_level": "5 – 8 LPA",
+        "mid_level": "12 – 20 LPA",
+        "high_level": "30+ LPA"
+      }
+    }
+  ],
+  "science_students_careers_extended": [
+    {
+      "career_name": "AI / Machine Learning Engineer",
+      "category": "Artificial Intelligence",
+      "eligibility": "12th MPC",
+      "degree_required": "Optional",
+      "scope_in_india": "Very High",
+      "work_areas": ["IT Companies", "Research Labs", "Startups"],
+      "salary_range_inr": {
+        "entry_level": "6 – 10 LPA",
+        "mid_level": "15 – 30 LPA",
+        "high_level": "50+ LPA"
+      }
+    },
+    {
+      "career_name": "Cloud Engineer",
+      "category": "IT Infrastructure",
+      "eligibility": "12th MPC",
+      "degree_required": "Optional",
+      "scope_in_india": "Very High",
+      "work_areas": ["IT Firms", "MNCs", "Startups"],
+      "salary_range_inr": {
+        "entry_level": "5 – 8 LPA",
+        "mid_level": "12 – 20 LPA",
+        "high_level": "35+ LPA"
+      }
+    },
+    {
+      "career_name": "UI/UX Designer",
+      "category": "Design & Technology",
+      "eligibility": "12th Any Stream",
+      "degree_required": "No",
+      "scope_in_india": "High",
+      "work_areas": ["IT Companies", "Product Firms", "Freelancing"],
+      "salary_range_inr": {
+        "entry_level": "3 – 6 LPA",
+        "mid_level": "8 – 15 LPA",
+        "high_level": "25+ LPA"
+      }
+    },
+    {
+      "career_name": "Game Developer",
+      "category": "Gaming & Entertainment",
+      "eligibility": "12th MPC",
+      "degree_required": "Optional",
+      "scope_in_india": "Medium-High",
+      "work_areas": ["Gaming Studios", "Mobile App Companies"],
+      "salary_range_inr": {
+        "entry_level": "4 – 7 LPA",
+        "mid_level": "10 – 18 LPA",
+        "high_level": "30+ LPA"
+      }
+    },
+    {
+      "career_name": "Ethical Hacker",
+      "category": "Cyber Security",
+      "eligibility": "12th MPC",
+      "degree_required": "No",
+      "scope_in_india": "Very High",
+      "work_areas": ["IT Firms", "Banks", "Government", "Freelancing"],
+      "salary_range_inr": {
+        "entry_level": "5 – 9 LPA",
+        "mid_level": "12 – 22 LPA",
+        "high_level": "40+ LPA"
+      }
+    },
+    {
+      "career_name": "Forensic Scientist",
+      "category": "Forensics & Investigation",
+      "eligibility": "12th BiPC / MPC",
+      "degree_required": "Yes",
+      "scope_in_india": "Medium",
+      "work_areas": ["Crime Labs", "Police Dept", "Research Labs"],
+      "salary_range_inr": {
+        "entry_level": "4 – 6 LPA",
+        "mid_level": "7 – 12 LPA",
+        "high_level": "18+ LPA"
+      }
+    },
+    {
+      "career_name": "Environmental Scientist",
+      "category": "Environmental Studies",
+      "eligibility": "12th BiPC / MPC",
+      "degree_required": "Yes",
+      "scope_in_india": "Medium",
+      "work_areas": ["NGOs", "Govt Projects", "Research"],
+      "salary_range_inr": {
+        "entry_level": "3 – 5 LPA",
+        "mid_level": "6 – 10 LPA",
+        "high_level": "15+ LPA"
+      }
+    },
+    {
+      "career_name": "Food Technologist",
+      "category": "Food & Nutrition",
+      "eligibility": "12th BiPC",
+      "degree_required": "Yes",
+      "scope_in_india": "High",
+      "work_areas": ["Food Companies", "Quality Control", "R&D"],
+      "salary_range_inr": {
+        "entry_level": "3 – 5 LPA",
+        "mid_level": "6 – 10 LPA",
+        "high_level": "15+ LPA"
+      }
+    },
+    {
+      "career_name": "Defense Officer (NDA)",
+      "category": "Defense Services",
+      "eligibility": "12th MPC",
+      "degree_required": "Yes (via NDA)",
+      "scope_in_india": "High",
+      "work_areas": ["Army", "Navy", "Air Force"],
+      "salary_range_inr": {
+        "entry_level": "6 – 8 LPA",
+        "mid_level": "10 – 18 LPA",
+        "high_level": "25+ LPA"
+      }
+    },
+    {
+      "career_name": "Commercial Drone Pilot",
+      "category": "Drone Technology",
+      "eligibility": "12th Any Stream",
+      "degree_required": "No (DGCA License)",
+      "scope_in_india": "High",
+      "work_areas": ["Agriculture", "Defense", "Media", "Survey"],
+      "salary_range_inr": {
+        "entry_level": "4 – 6 LPA",
+        "mid_level": "8 – 12 LPA",
+        "high_level": "20+ LPA"
+      }
+    },
+    {
+      "career_name": "Robotics Engineer",
+      "category": "Robotics & Automation",
+      "eligibility": "12th MPC",
+      "degree_required": "Optional",
+      "scope_in_india": "High",
+      "work_areas": ["Manufacturing", "Automation", "R&D"],
+      "salary_range_inr": {
+        "entry_level": "5 – 8 LPA",
+        "mid_level": "12 – 20 LPA",
+        "high_level": "35+ LPA"
+      }
+    },
+    {
+      "career_name": "Science Content Creator",
+      "category": "Education & Media",
+      "eligibility": "12th Any Stream",
+      "degree_required": "No",
+      "scope_in_india": "High",
+      "work_areas": ["YouTube", "EdTech", "Online Platforms"],
+      "salary_range_inr": {
+        "entry_level": "2 – 5 LPA",
+        "mid_level": "6 – 12 LPA",
+        "high_level": "30+ LPA"
+      }
+    }
+  ]
+}

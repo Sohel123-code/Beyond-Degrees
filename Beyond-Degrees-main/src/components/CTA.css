@@ -1,0 +1,66 @@
+.cta-section {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--accent-color) 100%);
+    padding: 5rem 2rem;
+    text-align: center;
+    color: var(--text-primary);
+    position: relative;
+    overflow: hidden;
+}
+
+.cta-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('/assests/logo.png') center/contain no-repeat;
+    opacity: 0.05;
+    pointer-events: none;
+}
+
+.cta-content {
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+
+.cta-heading {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.cta-text {
+    font-size: 1.25rem;
+    margin-bottom: 2.5rem;
+    opacity: 0.95;
+    color: rgba(241, 245, 249, 0.95);
+}
+
+.btn-large {
+    padding: 1.25rem 3rem;
+    font-size: 1.25rem;
+}
+
+@media (max-width: 768px) {
+    .cta-section {
+        padding: 3rem 1.5rem;
+    }
+
+    .cta-heading {
+        font-size: 2rem;
+    }
+
+    .cta-text {
+        font-size: 1.1rem;
+    }
+
+    .btn-large {
+        padding: 1rem 2rem;
+        font-size: 1.1rem;
+        width: 100%;
+    }
+}

@@ -1,0 +1,203 @@
+.concept-hub {
+    min-height: 100vh;
+    background-color: var(--page-bg);
+    color: var(--text);
+    padding-bottom: 50px;
+}
+
+.hub-hero {
+    background: linear-gradient(to bottom, #ffffff, var(--page-bg));
+    padding: 60px 0 40px;
+    /* Reduced bottom padding */
+    text-align: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.hub-hero__title {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 20px;
+    color: var(--text);
+    letter-spacing: -0.02em;
+}
+
+.hub-hero__subtitle {
+    font-size: 1.25rem;
+    color: var(--muted);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.categories-section {
+    padding: 20px 0 60px;
+    /* Reduced top padding to bring it closer to hero */
+}
+
+.categories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.category-card {
+    background: var(--surface);
+    border-radius: 16px;
+    overflow: hidden;
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    box-shadow: var(--shadow);
+    position: relative;
+}
+
+/* Subtle border glow that follows mouse */
+.category-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    padding: 1px;
+    /* border thickness */
+    border-radius: 16px;
+    background: radial-gradient(400px circle at var(--mouse-x) var(--mouse-y),
+            rgba(47, 95, 167, 0.3),
+            transparent 40%);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    opacity: 0;
+    transition: opacity 0.5s;
+    pointer-events: none;
+}
+
+.category-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-lg);
+}
+
+.category-card:hover::before {
+    opacity: 1;
+}
+
+/* Radial highlight trailing mouse */
+.category-card::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(600px circle at var(--mouse-x) var(--mouse-y),
+            rgba(47, 95, 167, 0.03),
+            transparent 40%);
+    opacity: 0;
+    transition: opacity 0.5s;
+    pointer-events: none;
+}
+
+.category-card:hover::after {
+    opacity: 1;
+}
+
+.category-card__media {
+    position: relative;
+    height: 200px;
+    overflow: hidden;
+}
+
+.category-card__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.category-card:hover .category-card__img {
+    transform: scale(1.05);
+}
+
+.category-card__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+}
+
+.category-card__content {
+    padding: 24px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.category-card__header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 15px;
+}
+
+.category-card__emoji {
+    font-size: 1.75rem;
+    background: #f1f5f9;
+    padding: 8px;
+    border-radius: 12px;
+    line-height: 1;
+}
+
+.category-card__title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--text);
+}
+
+.category-card__description {
+    color: var(--muted);
+    line-height: 1.6;
+    margin-bottom: 24px;
+    flex-grow: 1;
+    font-size: 0.95rem;
+}
+
+.category-card__link {
+    color: var(--brand);
+    font-weight: 700;
+    font-size: 0.95rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: gap 0.2s;
+}
+
+.category-card:hover .category-card__link {
+    gap: 12px;
+}
+
+.loading-state {
+    text-align: center;
+    padding: 100px 0;
+    font-size: 1.2rem;
+    color: var(--muted);
+}
+
+@media (max-width: 768px) {
+    .hub-hero {
+        padding: 40px 0 30px;
+    }
+
+    .hub-hero__title {
+        font-size: 2rem;
+    }
+
+    .hub-hero__subtitle {
+        font-size: 1.1rem;
+        padding: 0 20px;
+    }
+
+    .categories-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        padding: 0 15px;
+    }
+}

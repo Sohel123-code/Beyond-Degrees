@@ -1,0 +1,1163 @@
+{
+    "careers": [
+        {
+            "career_name": "Cost & Management Accountant (CMA)",
+            "scope_in_india": "High",
+            "degree_required": "Yes (CMA Course)",
+            "eligibility": "12th Commerce",
+            "entry_salary": "5 – 8 LPA",
+            "overview": "Cost & Management Accountants focus on cost control, budgeting, performance analysis, and financial decision-making inside organizations.",
+            "who_should_choose_this": [
+                "Students good with numbers and analysis",
+                "Those interested in internal business finance",
+                "People who like planning and efficiency"
+            ],
+            "skills_required": [
+                "Cost accounting",
+                "Analytical thinking",
+                "Financial planning",
+                "Decision-making"
+            ],
+            "learning_paths": [
+                "CMA Foundation",
+                "CMA Intermediate",
+                "CMA Final with practical training"
+            ],
+            "career_roadmap": [
+                "CMA Student",
+                "Cost Accountant",
+                "Senior CMA",
+                "Finance Controller / CFO"
+            ],
+            "salary_in_india": {
+                "entry": "5 – 8 LPA",
+                "mid": "10 – 18 LPA",
+                "high": "30+ LPA"
+            },
+            "work_areas": [
+                "Manufacturing Firms",
+                "Cost Control Departments",
+                "Finance Teams"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Strong demand in industry",
+                    "Good salary growth",
+                    "Strategic role in companies"
+                ],
+                "cons": [
+                    "Difficult exams",
+                    "Long qualification period"
+                ]
+            },
+            "how_to_start": [
+                "Choose commerce",
+                "Register for CMA Foundation",
+                "Clear all CMA levels",
+                "Complete training"
+            ],
+            "resources": [
+                "ICMAI study material",
+                "CMA coaching platforms",
+                "Mock test portals"
+            ],
+            "related_careers": [
+                "Chartered Accountant",
+                "Financial Analyst",
+                "Business Analyst"
+            ]
+        },
+        {
+            "career_name": "Financial Analyst",
+            "scope_in_india": "High",
+            "degree_required": "Optional",
+            "eligibility": "12th Commerce",
+            "entry_salary": "4 – 6 LPA",
+            "overview": "Financial Analysts evaluate financial data to help businesses and investors make informed investment and financial decisions.",
+            "who_should_choose_this": [
+                "Students interested in finance and markets",
+                "Those who like analysis and forecasting",
+                "People comfortable with numbers"
+            ],
+            "skills_required": [
+                "Financial modeling",
+                "Excel and data analysis",
+                "Business understanding",
+                "Research skills"
+            ],
+            "learning_paths": [
+                "Finance or commerce degree",
+                "CFA or finance certifications",
+                "Hands-on financial projects"
+            ],
+            "career_roadmap": [
+                "Junior Analyst",
+                "Financial Analyst",
+                "Senior Analyst",
+                "Investment Manager"
+            ],
+            "salary_in_india": {
+                "entry": "4 – 6 LPA",
+                "mid": "8 – 15 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Investment Firms",
+                "Banks",
+                "Corporate Finance"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High exposure to finance",
+                    "Good career growth",
+                    "Opportunities in global firms"
+                ],
+                "cons": [
+                    "High competition",
+                    "Performance pressure"
+                ]
+            },
+            "how_to_start": [
+                "Learn finance basics",
+                "Master Excel and analysis tools",
+                "Do finance internships",
+                "Apply for analyst roles"
+            ],
+            "resources": [
+                "Finance learning platforms",
+                "Stock market tools",
+                "Business news portals"
+            ],
+            "related_careers": [
+                "Risk Analyst",
+                "Investment Banker",
+                "Wealth Manager"
+            ]
+        },
+        {
+            "career_name": "Banking Officer",
+            "scope_in_india": "High",
+            "degree_required": "Yes (via Exams)",
+            "eligibility": "12th Commerce / Any Stream",
+            "entry_salary": "4 – 6 LPA",
+            "overview": "Banking Officers manage customer accounts, loans, financial services, and operations in public and private sector banks.",
+            "who_should_choose_this": [
+                "Students seeking stable government or bank jobs",
+                "Those interested in finance and public service",
+                "People who like structured work"
+            ],
+            "skills_required": [
+                "Numerical ability",
+                "Communication skills",
+                "Customer handling",
+                "Basic financial knowledge"
+            ],
+            "learning_paths": [
+                "Graduation",
+                "Clear banking exams (IBPS / SBI)",
+                "Bank training programs"
+            ],
+            "career_roadmap": [
+                "Probationary Officer",
+                "Bank Officer",
+                "Branch Manager",
+                "Senior Banking Executive"
+            ],
+            "salary_in_india": {
+                "entry": "4 – 6 LPA",
+                "mid": "8 – 12 LPA",
+                "high": "18+ LPA"
+            },
+            "work_areas": [
+                "Public Sector Banks",
+                "Private Banks",
+                "Financial Institutions"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Job security",
+                    "Stable income",
+                    "Government benefits"
+                ],
+                "cons": [
+                    "Transfers",
+                    "Work pressure during peak times"
+                ]
+            },
+            "how_to_start": [
+                "Complete graduation",
+                "Prepare for banking exams",
+                "Clear interview",
+                "Join bank training"
+            ],
+            "resources": [
+                "Bank exam preparation portals",
+                "Mock test apps",
+                "Banking awareness platforms"
+            ],
+            "related_careers": [
+                "Insurance Officer",
+                "Financial Analyst",
+                "Risk Analyst"
+            ]
+        },
+        {
+            "career_name": "Insurance Officer",
+            "scope_in_india": "Medium-High",
+            "degree_required": "Yes (via Exams)",
+            "eligibility": "12th Commerce / Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Insurance Officers manage policies, claims, and risk-related services for individuals and organizations.",
+            "who_should_choose_this": [
+                "Students interested in risk and finance",
+                "Those who want stable government or corporate jobs",
+                "People good at documentation and analysis"
+            ],
+            "skills_required": [
+                "Risk assessment",
+                "Communication skills",
+                "Documentation handling",
+                "Customer service"
+            ],
+            "learning_paths": [
+                "Graduation",
+                "Clear insurance exams (LIC / ADO)",
+                "Professional training"
+            ],
+            "career_roadmap": [
+                "Insurance Trainee",
+                "Insurance Officer",
+                "Senior Officer",
+                "Regional Manager"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "15+ LPA"
+            },
+            "work_areas": [
+                "Insurance Companies",
+                "Risk Departments",
+                "Claims Management"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Stable career",
+                    "Good work-life balance",
+                    "Government sector options"
+                ],
+                "cons": [
+                    "Slower career growth",
+                    "Target-based roles in private sector"
+                ]
+            },
+            "how_to_start": [
+                "Complete graduation",
+                "Prepare for insurance exams",
+                "Clear interview",
+                "Join training"
+            ],
+            "resources": [
+                "Insurance exam portals",
+                "IRDA resources",
+                "Preparation books"
+            ],
+            "related_careers": [
+                "Banking Officer",
+                "Risk Analyst",
+                "Compliance Officer"
+            ]
+        },
+        {
+            "career_name": "Human Resource Manager",
+            "scope_in_india": "Medium-High",
+            "degree_required": "Yes",
+            "eligibility": "12th Commerce / Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "HR Managers handle recruitment, employee relations, performance management, and organizational culture.",
+            "who_should_choose_this": [
+                "Students good with people management",
+                "Those interested in corporate roles",
+                "People with communication skills"
+            ],
+            "skills_required": [
+                "Communication",
+                "People management",
+                "Conflict resolution",
+                "Organizational skills"
+            ],
+            "learning_paths": [
+                "BBA / BCom",
+                "MBA in HR",
+                "Corporate internships"
+            ],
+            "career_roadmap": [
+                "HR Executive",
+                "HR Manager",
+                "Senior HR Manager",
+                "HR Director"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "7 – 12 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Corporate HR",
+                "Recruitment Firms",
+                "People Operations"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "People-oriented career",
+                    "Corporate growth"
+                ],
+                "cons": [
+                    "High responsibility",
+                    "Employee pressure"
+                ]
+            },
+            "how_to_start": [
+                "Complete graduation",
+                "Do MBA in HR",
+                "Gain HR internship"
+            ],
+            "resources": [
+                "HR learning portals",
+                "MBA institutes",
+                "Corporate training platforms"
+            ],
+            "related_careers": [
+                "Corporate Trainer",
+                "Business Manager"
+            ]
+        },
+        {
+            "career_name": "Entrepreneur / Startup Founder",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "Variable",
+            "overview": "Entrepreneurs build and run their own businesses by identifying problems and creating solutions.",
+            "who_should_choose_this": [
+                "Risk-takers",
+                "Problem solvers",
+                "Independent thinkers"
+            ],
+            "skills_required": [
+                "Business thinking",
+                "Leadership",
+                "Decision making",
+                "Sales & marketing"
+            ],
+            "learning_paths": [
+                "Self-learning",
+                "Business courses",
+                "Startup incubation"
+            ],
+            "career_roadmap": [
+                "Idea stage",
+                "Startup launch",
+                "Growth phase",
+                "Business expansion"
+            ],
+            "salary_in_india": {
+                "entry": "Variable",
+                "mid": "Variable",
+                "high": "Unlimited"
+            },
+            "work_areas": [
+                "Startups",
+                "Own Business",
+                "Family Business"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Unlimited growth",
+                    "Independence"
+                ],
+                "cons": [
+                    "High risk",
+                    "Unstable income"
+                ]
+            },
+            "how_to_start": [
+                "Identify problem",
+                "Build solution",
+                "Start small",
+                "Scale gradually"
+            ],
+            "resources": [
+                "Startup India",
+                "Incubators",
+                "Business mentors"
+            ],
+            "related_careers": [
+                "Business Consultant",
+                "E-commerce Manager"
+            ]
+        },
+        {
+            "career_name": "Stock Market Trader",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "2 – 5 LPA",
+            "overview": "Stock Market Traders buy and sell financial instruments to generate profits.",
+            "who_should_choose_this": [
+                "Risk-tolerant individuals",
+                "Market enthusiasts",
+                "Self-disciplined learners"
+            ],
+            "skills_required": [
+                "Market analysis",
+                "Risk management",
+                "Emotional control"
+            ],
+            "learning_paths": [
+                "Trading courses",
+                "Market practice",
+                "Simulation trading"
+            ],
+            "career_roadmap": [
+                "Learner",
+                "Small trader",
+                "Full-time trader",
+                "Portfolio manager"
+            ],
+            "salary_in_india": {
+                "entry": "2 – 5 LPA",
+                "mid": "6 – 15 LPA",
+                "high": "Unlimited"
+            },
+            "work_areas": [
+                "Equity Markets",
+                "Derivatives",
+                "Proprietary Trading"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High earning potential",
+                    "Independent work"
+                ],
+                "cons": [
+                    "High risk",
+                    "Income volatility"
+                ]
+            },
+            "how_to_start": [
+                "Learn basics",
+                "Open demat account",
+                "Practice with small capital"
+            ],
+            "resources": [
+                "Trading platforms",
+                "Market education portals"
+            ],
+            "related_careers": [
+                "Financial Analyst",
+                "Wealth Manager"
+            ]
+        },
+        {
+            "career_name": "Economist",
+            "scope_in_india": "Medium",
+            "degree_required": "Yes",
+            "eligibility": "12th Commerce / Maths",
+            "entry_salary": "5 – 8 LPA",
+            "overview": "Economists study economic data, trends, and policies to help governments and organizations make informed decisions.",
+            "who_should_choose_this": [
+                "Students interested in economics and policy",
+                "Those who enjoy research and analysis",
+                "People comfortable with data and theory"
+            ],
+            "skills_required": [
+                "Economic analysis",
+                "Data interpretation",
+                "Research skills",
+                "Critical thinking"
+            ],
+            "learning_paths": [
+                "BA / BSc Economics",
+                "MA Economics",
+                "Research or policy training"
+            ],
+            "career_roadmap": [
+                "Economics Student",
+                "Junior Economist",
+                "Economist",
+                "Policy Advisor"
+            ],
+            "salary_in_india": {
+                "entry": "5 – 8 LPA",
+                "mid": "10 – 18 LPA",
+                "high": "30+ LPA"
+            },
+            "work_areas": [
+                "Government",
+                "Research Institutions",
+                "Policy Think Tanks"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Impact on policy",
+                    "Intellectual career"
+                ],
+                "cons": [
+                    "Long study period",
+                    "Limited openings"
+                ]
+            },
+            "how_to_start": [
+                "Choose commerce with maths",
+                "Study economics",
+                "Gain research experience"
+            ],
+            "resources": [
+                "Economic research portals",
+                "Government data websites"
+            ],
+            "related_careers": [
+                "Risk Analyst",
+                "Policy Analyst"
+            ]
+        },
+        {
+            "career_name": "Supply Chain Manager",
+            "scope_in_india": "High",
+            "degree_required": "Optional",
+            "eligibility": "12th Commerce / Any Stream",
+            "entry_salary": "4 – 6 LPA",
+            "overview": "Supply Chain Managers oversee procurement, logistics, inventory, and distribution of goods efficiently.",
+            "who_should_choose_this": [
+                "Students interested in operations",
+                "Those who like coordination and planning"
+            ],
+            "skills_required": [
+                "Logistics management",
+                "Planning skills",
+                "Problem-solving"
+            ],
+            "learning_paths": [
+                "BBA / MBA Operations",
+                "Supply chain certifications"
+            ],
+            "career_roadmap": [
+                "Supply Chain Executive",
+                "Supply Chain Manager",
+                "Operations Head"
+            ],
+            "salary_in_india": {
+                "entry": "4 – 6 LPA",
+                "mid": "8 – 15 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Manufacturing",
+                "E-commerce",
+                "Logistics Firms"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High demand",
+                    "Global exposure"
+                ],
+                "cons": [
+                    "High responsibility"
+                ]
+            },
+            "how_to_start": [
+                "Study operations basics",
+                "Get logistics exposure"
+            ],
+            "resources": [
+                "Supply chain courses",
+                "Industry certifications"
+            ],
+            "related_careers": [
+                "Operations Manager",
+                "Logistics Analyst"
+            ]
+        },
+        {
+            "career_name": "Risk Analyst",
+            "scope_in_india": "High",
+            "degree_required": "Optional",
+            "eligibility": "12th Commerce / Maths",
+            "entry_salary": "4 – 7 LPA",
+            "overview": "Risk Analysts assess financial and business risks to help organizations minimize losses.",
+            "who_should_choose_this": [
+                "Students good with analysis",
+                "Those interested in finance and risk"
+            ],
+            "skills_required": [
+                "Risk assessment",
+                "Data analysis",
+                "Decision making"
+            ],
+            "learning_paths": [
+                "Finance degree",
+                "Risk management certifications"
+            ],
+            "career_roadmap": [
+                "Risk Analyst",
+                "Senior Risk Analyst",
+                "Risk Manager"
+            ],
+            "salary_in_india": {
+                "entry": "4 – 7 LPA",
+                "mid": "10 – 18 LPA",
+                "high": "30+ LPA"
+            },
+            "work_areas": [
+                "Banks",
+                "Insurance Firms",
+                "Investment Companies"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High demand"
+                ],
+                "cons": [
+                    "High pressure"
+                ]
+            },
+            "how_to_start": [
+                "Learn finance and risk basics"
+            ],
+            "resources": [
+                "Risk analysis platforms"
+            ],
+            "related_careers": [
+                "Financial Analyst",
+                "Actuary"
+            ]
+        },
+        {
+            "career_name": "Actuary",
+            "scope_in_india": "Very High",
+            "degree_required": "Yes (Actuarial Exams)",
+            "eligibility": "12th Commerce / Maths",
+            "entry_salary": "6 – 10 LPA",
+            "overview": "Actuaries use mathematics and statistics to evaluate financial risks, mainly in insurance and finance sectors.",
+            "who_should_choose_this": [
+                "Strong maths students",
+                "Those interested in risk and statistics"
+            ],
+            "skills_required": [
+                "Mathematics",
+                "Statistics",
+                "Analytical thinking"
+            ],
+            "learning_paths": [
+                "Actuarial science exams",
+                "Professional training"
+            ],
+            "career_roadmap": [
+                "Actuarial Student",
+                "Actuary",
+                "Chief Actuary"
+            ],
+            "salary_in_india": {
+                "entry": "6 – 10 LPA",
+                "mid": "15 – 30 LPA",
+                "high": "50+ LPA"
+            },
+            "work_areas": [
+                "Insurance Companies",
+                "Consulting Firms"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Very high salary"
+                ],
+                "cons": [
+                    "Very difficult exams"
+                ]
+            },
+            "how_to_start": [
+                "Strong maths foundation",
+                "Register for actuarial exams"
+            ],
+            "resources": [
+                "Actuarial institutes"
+            ],
+            "related_careers": [
+                "Risk Analyst",
+                "Financial Analyst"
+            ]
+        },
+        {
+            "career_name": "E-commerce Manager",
+            "scope_in_india": "Very High",
+            "degree_required": "Optional",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "4 – 6 LPA",
+            "overview": "E-commerce Managers handle online sales platforms, product listings, digital growth, and customer experience.",
+            "who_should_choose_this": [
+                "Students interested in online business",
+                "Those who like analytics and operations"
+            ],
+            "skills_required": [
+                "E-commerce platforms",
+                "Digital marketing basics",
+                "Data analysis"
+            ],
+            "learning_paths": [
+                "Business or marketing degree",
+                "E-commerce certifications"
+            ],
+            "career_roadmap": [
+                "E-commerce Executive",
+                "E-commerce Manager",
+                "Head of Online Business"
+            ],
+            "salary_in_india": {
+                "entry": "4 – 6 LPA",
+                "mid": "8 – 15 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Online Marketplaces",
+                "D2C Brands",
+                "Retail Companies"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High demand",
+                    "Fast growth"
+                ],
+                "cons": [
+                    "Target pressure"
+                ]
+            },
+            "how_to_start": [
+                "Learn e-commerce basics",
+                "Work on online platforms"
+            ],
+            "resources": [
+                "E-commerce learning platforms"
+            ],
+            "related_careers": [
+                "Digital Marketer",
+                "Business Analyst"
+            ]
+        },
+        {
+            "career_name": "GST Practitioner",
+            "scope_in_india": "High",
+            "degree_required": "Yes (Certification)",
+            "eligibility": "12th Commerce",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "GST Practitioners manage GST filing, compliance, and tax advisory for businesses.",
+            "who_should_choose_this": [
+                "Students interested in taxation",
+                "Those who like rule-based work"
+            ],
+            "skills_required": [
+                "GST laws",
+                "Accounting basics",
+                "Compliance handling"
+            ],
+            "learning_paths": [
+                "GST certification",
+                "Practical tax training"
+            ],
+            "career_roadmap": [
+                "GST Assistant",
+                "GST Practitioner",
+                "Tax Consultant"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 10 LPA",
+                "high": "20+ LPA"
+            },
+            "work_areas": [
+                "Tax Consultancy",
+                "CA Firms",
+                "Small Businesses"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Stable demand"
+                ],
+                "cons": [
+                    "Law updates required"
+                ]
+            },
+            "how_to_start": [
+                "Learn GST basics",
+                "Get certified"
+            ],
+            "resources": [
+                "GST portals"
+            ],
+            "related_careers": [
+                "Chartered Accountant",
+                "Compliance Officer"
+            ]
+        },
+        {
+            "career_name": "Compliance Officer",
+            "scope_in_india": "High",
+            "degree_required": "Yes",
+            "eligibility": "12th Commerce / Any Stream",
+            "entry_salary": "4 – 6 LPA",
+            "overview": "Compliance Officers ensure companies follow legal and regulatory requirements.",
+            "who_should_choose_this": [
+                "Detail-oriented students",
+                "Those interested in corporate law"
+            ],
+            "skills_required": [
+                "Regulatory knowledge",
+                "Documentation",
+                "Risk awareness"
+            ],
+            "learning_paths": [
+                "Law / commerce degree",
+                "Compliance certifications"
+            ],
+            "career_roadmap": [
+                "Compliance Executive",
+                "Compliance Officer",
+                "Head of Compliance"
+            ],
+            "salary_in_india": {
+                "entry": "4 – 6 LPA",
+                "mid": "8 – 14 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Corporates",
+                "Banks",
+                "Regulatory Bodies"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Strong demand"
+                ],
+                "cons": [
+                    "High responsibility"
+                ]
+            },
+            "how_to_start": [
+                "Study corporate laws",
+                "Gain compliance exposure"
+            ],
+            "resources": [
+                "Regulatory portals"
+            ],
+            "related_careers": [
+                "Company Secretary",
+                "Risk Analyst"
+            ]
+        },
+        {
+            "career_name": "Wealth Manager",
+            "scope_in_india": "High",
+            "degree_required": "Optional",
+            "eligibility": "12th Commerce",
+            "entry_salary": "4 – 7 LPA",
+            "overview": "Wealth Managers advise high-net-worth clients on investments and financial planning.",
+            "who_should_choose_this": [
+                "Students interested in investments",
+                "People with communication skills"
+            ],
+            "skills_required": [
+                "Investment knowledge",
+                "Client management",
+                "Financial planning"
+            ],
+            "learning_paths": [
+                "Finance degree",
+                "Investment certifications"
+            ],
+            "career_roadmap": [
+                "Relationship Manager",
+                "Wealth Manager",
+                "Private Banking Head"
+            ],
+            "salary_in_india": {
+                "entry": "4 – 7 LPA",
+                "mid": "10 – 20 LPA",
+                "high": "40+ LPA"
+            },
+            "work_areas": [
+                "Private Banks",
+                "Investment Firms"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "High commissions"
+                ],
+                "cons": [
+                    "Target pressure"
+                ]
+            },
+            "how_to_start": [
+                "Learn investments",
+                "Join bank or firm"
+            ],
+            "resources": [
+                "Finance platforms"
+            ],
+            "related_careers": [
+                "Financial Analyst",
+                "Stock Trader"
+            ]
+        },
+        {
+            "career_name": "Franchise Business Consultant",
+            "scope_in_india": "Medium-High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Franchise Consultants help businesses expand through franchise models.",
+            "who_should_choose_this": [
+                "Business-minded students",
+                "Sales-oriented people"
+            ],
+            "skills_required": [
+                "Business analysis",
+                "Sales skills"
+            ],
+            "learning_paths": [
+                "Business training",
+                "Franchise exposure"
+            ],
+            "career_roadmap": [
+                "Consultant",
+                "Senior Consultant",
+                "Franchise Advisor"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "7 – 12 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Retail Brands",
+                "Food Chains"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Growing market"
+                ],
+                "cons": [
+                    "Sales dependency"
+                ]
+            },
+            "how_to_start": [
+                "Learn franchise models"
+            ],
+            "resources": [
+                "Business consulting platforms"
+            ],
+            "related_careers": [
+                "Business Consultant"
+            ]
+        },
+        {
+            "career_name": "Corporate Trainer",
+            "scope_in_india": "High",
+            "degree_required": "Optional",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Corporate Trainers train employees on skills, leadership, and professional development.",
+            "who_should_choose_this": [
+                "Good communicators",
+                "Teaching-oriented people"
+            ],
+            "skills_required": [
+                "Public speaking",
+                "Training design"
+            ],
+            "learning_paths": [
+                "Domain expertise",
+                "Training certifications"
+            ],
+            "career_roadmap": [
+                "Trainer",
+                "Senior Trainer",
+                "Learning Head"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "6 – 12 LPA",
+                "high": "30+ LPA"
+            },
+            "work_areas": [
+                "Corporates",
+                "EdTech Platforms"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Flexible career"
+                ],
+                "cons": [
+                    "Client dependency"
+                ]
+            },
+            "how_to_start": [
+                "Build expertise",
+                "Start training sessions"
+            ],
+            "resources": [
+                "Training platforms"
+            ],
+            "related_careers": [
+                "HR Manager"
+            ]
+        },
+        {
+            "career_name": "Business Process Analyst",
+            "scope_in_india": "High",
+            "degree_required": "Optional",
+            "eligibility": "12th Commerce / Any Stream",
+            "entry_salary": "4 – 6 LPA",
+            "overview": "Business Process Analysts improve efficiency by analyzing and optimizing business workflows.",
+            "who_should_choose_this": [
+                "Process-oriented thinkers",
+                "Analytical students"
+            ],
+            "skills_required": [
+                "Process mapping",
+                "Analysis"
+            ],
+            "learning_paths": [
+                "Business analysis courses"
+            ],
+            "career_roadmap": [
+                "Process Analyst",
+                "Senior Analyst"
+            ],
+            "salary_in_india": {
+                "entry": "4 – 6 LPA",
+                "mid": "8 – 14 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "IT Services",
+                "Consulting Firms"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Corporate demand"
+                ],
+                "cons": [
+                    "Documentation heavy"
+                ]
+            },
+            "how_to_start": [
+                "Learn process analysis"
+            ],
+            "resources": [
+                "Business analysis portals"
+            ],
+            "related_careers": [
+                "Business Analyst"
+            ]
+        },
+        {
+            "career_name": "International Trade Specialist",
+            "scope_in_india": "Medium-High",
+            "degree_required": "Yes",
+            "eligibility": "12th Commerce",
+            "entry_salary": "4 – 6 LPA",
+            "overview": "International Trade Specialists manage import-export operations and global trade compliance.",
+            "who_should_choose_this": [
+                "Students interested in global business"
+            ],
+            "skills_required": [
+                "Trade regulations",
+                "Logistics knowledge"
+            ],
+            "learning_paths": [
+                "International business degree"
+            ],
+            "career_roadmap": [
+                "Trade Executive",
+                "Trade Manager"
+            ],
+            "salary_in_india": {
+                "entry": "4 – 6 LPA",
+                "mid": "8 – 14 LPA",
+                "high": "25+ LPA"
+            },
+            "work_areas": [
+                "Export-Import Firms",
+                "MNCs"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Global exposure"
+                ],
+                "cons": [
+                    "Regulation complexity"
+                ]
+            },
+            "how_to_start": [
+                "Study trade basics"
+            ],
+            "resources": [
+                "EXIM portals"
+            ],
+            "related_careers": [
+                "Supply Chain Manager"
+            ]
+        },
+        {
+            "career_name": "Business Content Strategist",
+            "scope_in_india": "High",
+            "degree_required": "No",
+            "eligibility": "12th Any Stream",
+            "entry_salary": "3 – 5 LPA",
+            "overview": "Business Content Strategists create content that supports branding, marketing, and growth.",
+            "who_should_choose_this": [
+                "Creative thinkers",
+                "Writers and planners"
+            ],
+            "skills_required": [
+                "Content planning",
+                "Marketing basics"
+            ],
+            "learning_paths": [
+                "Content courses",
+                "Hands-on writing"
+            ],
+            "career_roadmap": [
+                "Content Executive",
+                "Content Strategist",
+                "Brand Head"
+            ],
+            "salary_in_india": {
+                "entry": "3 – 5 LPA",
+                "mid": "7 – 12 LPA",
+                "high": "30+ LPA"
+            },
+            "work_areas": [
+                "Startups",
+                "Digital Media"
+            ],
+            "pros_and_cons": {
+                "pros": [
+                    "Creative freedom"
+                ],
+                "cons": [
+                    "Subjective feedback"
+                ]
+            },
+            "how_to_start": [
+                "Start writing",
+                "Build portfolio"
+            ],
+            "resources": [
+                "Content platforms"
+            ],
+            "related_careers": [
+                "Digital Marketer"
+            ]
+        }
+    ]
+}

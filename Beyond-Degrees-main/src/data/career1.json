@@ -1,0 +1,109 @@
+{
+    "careerSkills": [
+        {
+            "title": "HTML Full Course – Code With Harry",
+            "link": "https://www.youtube.com/watch?v=BsDoLVMnmZs",
+            "source": "Code With Harry"
+        },
+        {
+            "title": "CSS Full Course – Code With Harry",
+            "link": "https://www.youtube.com/watch?v=Edsxf_NBFrw",
+            "source": "Code With Harry"
+        },
+        {
+            "title": "JavaScript Full Course – Code With Harry",
+            "link": "https://www.youtube.com/watch?v=hKB-YGF14SY",
+            "source": "Code With Harry"
+        },
+        {
+            "title": "Web Development Roadmap",
+            "link": "https://www.youtube.com/watch?v=GLk7-imcjiI",
+            "source": "Code With Harry"
+        },
+        {
+            "title": "DSA Full Course in Java",
+            "link": "https://www.youtube.com/watch?v=RBSGKlAvoiM",
+            "source": "Apna College"
+        },
+        {
+            "title": "Time & Space Complexity",
+            "link": "https://www.youtube.com/watch?v=FPu9Uld7W-E",
+            "source": "Apna College"
+        },
+        {
+            "title": "Complete C Language Course",
+            "link": "https://www.youtube.com/watch?v=irqbmMNs2Bo",
+            "source": "Code With Harry"
+        },
+        {
+            "title": "Python Full Course for Beginners",
+            "link": "https://www.youtube.com/watch?v=gfDE2a7MKjA",
+            "source": "Code With Harry"
+        },
+        {
+            "title": "Git & GitHub Complete Tutorial",
+            "link": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+            "source": "freeCodeCamp"
+        },
+        {
+            "title": "SQL Full Course",
+            "link": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+            "source": "freeCodeCamp"
+        },
+        {
+            "title": "React JS Full Course",
+            "link": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+            "source": "freeCodeCamp"
+        },
+        {
+            "title": "Node JS Crash Course",
+            "link": "https://www.youtube.com/watch?v=fBNz5xF-Kx4",
+            "source": "Traversy Media"
+        },
+        {
+            "title": "Machine Learning Full Course",
+            "link": "https://www.youtube.com/watch?v=GwIo3gDZCVQ",
+            "source": "freeCodeCamp"
+        },
+        {
+            "title": "Data Science Full Course",
+            "link": "https://www.youtube.com/watch?v=ua-CiDNNj30",
+            "source": "Simplilearn"
+        },
+        {
+            "title": "Java Full Course",
+            "link": "https://www.youtube.com/watch?v=grEKMHGYyns",
+            "source": "Telusko"
+        },
+        {
+            "title": "DBMS One Shot",
+            "link": "https://www.youtube.com/watch?v=dl00fOOYLOM",
+            "source": "Gate Smashers"
+        },
+        {
+            "title": "Computer Networks One Shot",
+            "link": "https://www.youtube.com/watch?v=IPvYjXCsTg8",
+            "source": "Gate Smashers"
+        },
+        {
+            "title": "Sales Skills Training",
+            "link": "https://www.youtube.com/watch?v=3X9LvC9WkkQ",
+            "source": "Dan Lok"
+        },
+        {
+            "title": "Communication Skills Training",
+            "link": "https://www.youtube.com/watch?v=HAnw168huqA",
+            "source": "Brian Tracy"
+        },
+        {
+            "title": "Public Speaking Skills",
+            "link": "https://www.youtube.com/watch?v=K0pxo-dS9Hc",
+            "source": "TEDx"
+        },
+        {
+            "title": "How to Crack Coding Interviews",
+            "link": "https://www.youtube.com/watch?v=1t1_a1BZ04o",
+            "source": "Tech With Tim"
+        }
+    ]
+}

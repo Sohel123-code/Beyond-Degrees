@@ -1,0 +1,131 @@
+2026-02-16T07:05:36.823Z - Starting sendOTPEmail for mdsohel46940@gmail.com
+2026-02-16T07:05:36.826Z - Credentials check - User: tejeshwarorg@gmail.com, Pass provided: true, Mock Mode: false
+2026-02-16T07:05:36.854Z - Attempting to allow sending mail...
+2026-02-16T07:05:40.192Z - Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e52fe2300sm6228158a12.8 - gsmtp
+2026-02-16T07:05:40.194Z - Error details: {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e52fe2300sm6228158a12.8 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH PLAIN"
+}
+2026-02-16T07:06:06.951Z - Starting sendOTPEmail for tejeshwarorg@gmail.com
+2026-02-16T07:06:06.953Z - Credentials check - User: tejeshwarorg@gmail.com, Pass provided: true, Mock Mode: false
+2026-02-16T07:06:06.955Z - Attempting to allow sending mail...
+2026-02-16T07:06:10.081Z - Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ad1a71331bsm60188075ad.24 - gsmtp
+2026-02-16T07:06:10.084Z - Error details: {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ad1a71331bsm60188075ad.24 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH PLAIN"
+}
+2026-02-16T07:07:55.753Z - Starting sendOTPEmail for tejeshwar26092007@gmail.com
+2026-02-16T07:07:55.755Z - Credentials check - User: tejeshwarorg@gmail.com, Pass provided: true, Mock Mode: false
+2026-02-16T07:07:55.757Z - Attempting to allow sending mail...
+2026-02-16T07:07:58.903Z - Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e52ed96ebsm6181866a12.0 - gsmtp
+2026-02-16T07:07:58.907Z - Error details: {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e52ed96ebsm6181866a12.0 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH PLAIN"
+}
+2026-02-16T07:10:33.568Z - Starting sendOTPEmail for tejeshwar26092006@gmail.com
+2026-02-16T07:10:33.570Z - Credentials check - User: tejeshwarorg@gmail.com, Pass length: 16, Mock Mode: false
+2026-02-16T07:10:33.600Z - Attempting to send mail via smtp.gmail.com:465...
+2026-02-16T07:10:36.961Z - SMTP Verification Failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6a62c48sm9477901b3a.29 - gsmtp
+2026-02-16T07:10:40.148Z - Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3567e7d95d8sm16544273a91.2 - gsmtp
+2026-02-16T07:10:40.151Z - Error details: {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3567e7d95d8sm16544273a91.2 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH PLAIN"
+}
+2026-02-16T07:11:02.976Z - Starting sendOTPEmail for tejeshwarorg@gmail.com
+2026-02-16T07:11:02.977Z - Credentials check - User: tejeshwarorg@gmail.com, Pass length: 16, Mock Mode: false
+2026-02-16T07:11:02.978Z - Attempting to send mail via smtp.gmail.com:465...
+2026-02-16T07:11:06.148Z - SMTP Verification Failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ad1a6f9df1sm55148055ad.10 - gsmtp
+2026-02-16T07:11:09.321Z - Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ad1aae9e0esm60688845ad.79 - gsmtp
+2026-02-16T07:11:09.323Z - Error details: {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ad1aae9e0esm60688845ad.79 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH PLAIN"
+}
+2026-02-16T07:13:09.618Z - Starting sendOTPEmail for tejeshwar26092006@gmail.com
+2026-02-16T07:13:09.621Z - Credentials check - User: tejeshwarorg@gmail.com, Pass length: 16, Mock Mode: false
+2026-02-16T07:13:09.651Z - Attempting to send mail via smtp.gmail.com:465...
+2026-02-16T07:13:13.044Z - SMTP Verification Failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ad1a9d5c58sm64668185ad.59 - gsmtp
+2026-02-16T07:13:16.278Z - Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e52fcff01sm5965374a12.2 - gsmtp
+2026-02-16T07:13:16.282Z - Error details: {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e52fcff01sm5965374a12.2 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH PLAIN"
+}
+2026-02-16T07:13:16.285Z - [FALLBACK] Email failed. OTP: 753570
+2026-02-16T07:15:48.982Z - Starting sendOTPEmail for tejeshwarorg@gmail.com
+2026-02-16T07:15:48.983Z - Credentials check - User: tejeshwarorg@gmail.com, Pass length: 16, Mock Mode: false
+2026-02-16T07:15:48.985Z - Attempting to send mail via smtp.gmail.com:465...
+2026-02-16T07:15:52.119Z - SMTP Verification Failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3567ebc3508sm14627831a91.14 - gsmtp
+2026-02-16T07:15:55.266Z - Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6a43ff3sm10222491b3a.24 - gsmtp
+2026-02-16T07:15:55.267Z - Error details: {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6a43ff3sm10222491b3a.24 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH PLAIN"
+}
+2026-02-16T07:15:55.269Z - [FALLBACK] Email failed. OTP: 681860
+2026-02-16T07:16:38.600Z - Starting sendOTPEmail for tejeshwarorg@gmail.com
+2026-02-16T07:16:38.605Z - Credentials check - User: tejeshwarorg@gmail.com, Pass length: 16, Mock Mode: false
+2026-02-16T07:16:38.636Z - Attempting to send mail via smtp.gmail.com:465...
+2026-02-16T07:16:42.004Z - SMTP Verification Failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6bba008sm8844275b3a.64 - gsmtp
+2026-02-16T07:16:45.205Z - Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35662f8cc13sm18387446a91.14 - gsmtp
+2026-02-16T07:16:45.206Z - Error details: {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35662f8cc13sm18387446a91.14 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH PLAIN"
+}
+2026-02-16T07:16:45.208Z - [FALLBACK] Email failed. OTP: 503319
+2026-02-16T07:17:09.687Z - Starting sendOTPEmail for tejeshwar26092006@gmail.com
+2026-02-16T07:17:09.689Z - Credentials check - User: tejeshwarorg@gmail.com, Pass length: 16, Mock Mode: false
+2026-02-16T07:17:09.691Z - Attempting to send mail via smtp.gmail.com:465...
+2026-02-16T07:17:12.867Z - SMTP Verification Failed: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-356a87158e4sm6748993a91.3 - gsmtp
+2026-02-16T07:17:16.012Z - Error sending email: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6b6a099sm11196843b3a.33 - gsmtp
+2026-02-16T07:17:16.015Z - Error details: {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6b6a099sm11196843b3a.33 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH PLAIN"
+}
+2026-02-16T07:17:16.017Z - [FALLBACK] Email failed. OTP: 658601
+2026-02-16T07:24:50.032Z - [Attempting to send] User: tejeshwarorg@gmail.com, Pass length: 16
+2026-02-16T07:24:53.428Z - Email Error: {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6a627a5sm11265914b3a.27 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH PLAIN"
+}
+2026-02-16T07:24:53.432Z - [FALLBACK] Email failed. OTP: 101307
+2026-02-16T07:27:25.536Z - [Attempting to send] User: tejeshwarorg@gmail.com, Pass length: 16
+2026-02-16T07:27:28.711Z - Email Error: {
+  "code": "EAUTH",
+  "response": "535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e5302af1esm5661306a12.15 - gsmtp",
+  "responseCode": 535,
+  "command": "AUTH PLAIN"
+}
+2026-02-16T07:27:28.714Z - [FALLBACK] Email failed. OTP: 247682
