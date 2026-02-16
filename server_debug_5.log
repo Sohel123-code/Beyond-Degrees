@@ -1,0 +1,128 @@
+[dotenv@17.3.1] injecting env (7) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+[dotenv@17.3.1] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+[dotenv@17.3.1] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+Server running on http://localhost:5000
+[2026-02-16 07:13:09] DEBUG Creating transport: nodemailer (8.0.1; +https://nodemailer.com/; SMTP/8.0.1[client:8.0.1])
+[2026-02-16 07:13:09] DEBUG [XSozunsBAo] Resolved smtp.gmail.com as 2404:6800:4000:1025::6d [cache miss]
+[2026-02-16 07:13:09] INFO  [XSozunsBAo] Connection to 2404:6800:4000:1025::6d failed, trying 192.178.211.108
+[2026-02-16 07:13:09] INFO  [XSozunsBAo] Secure connection established to 192.178.211.108:465
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] S: 220 smtp.gmail.com ESMTP d9443c01a7336-2ad1a9d5c58sm64668185ad.59 - gsmtp
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] C: EHLO [127.0.0.1]
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] S: 250-smtp.gmail.com at your service, [103.176.255.82]
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] S: 250-SIZE 35882577
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] S: 250-8BITMIME
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] S: 250-ENHANCEDSTATUSCODES
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] S: 250-PIPELINING
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] S: 250-CHUNKING
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] S: 250 SMTPUTF8
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] SMTP handshake finished
+[2026-02-16 07:13:12] DEBUG [XSozunsBAo] C: AUTH PLAIN AHRlamVzaHdhcm9yZ0BnbWFpbC5jb20ALyogc2VjcmV0ICov
+[2026-02-16 07:13:13] DEBUG [XSozunsBAo] S: 535-5.7.8 Username and Password not accepted. For more information, go to
+[2026-02-16 07:13:13] DEBUG [XSozunsBAo] S: 535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ad1a9d5c58sm64668185ad.59 - gsmtp
+[2026-02-16 07:13:13] INFO  [XSozunsBAo] User "tejeshwarorg@gmail.com" failed to authenticate
+[2026-02-16 07:13:13] DEBUG [XSozunsBAo] Closing connection to the server using "end"
+[2026-02-16 07:13:13] DEBUG Sending mail using SMTP/8.0.1[client:8.0.1]
+[2026-02-16 07:13:13] DEBUG [Kn85LpqFo] Resolved smtp.gmail.com as 192.178.211.108 [cache hit]
+[2026-02-16 07:13:13] INFO  [Kn85LpqFo] Secure connection established to 192.178.211.108:465
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] S: 220 smtp.gmail.com ESMTP 41be03b00d2f7-c6e52fcff01sm5965374a12.2 - gsmtp
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] C: EHLO [127.0.0.1]
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] S: 250-smtp.gmail.com at your service, [103.176.255.82]
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] S: 250-SIZE 35882577
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] S: 250-8BITMIME
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] S: 250-ENHANCEDSTATUSCODES
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] S: 250-PIPELINING
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] S: 250-CHUNKING
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] S: 250 SMTPUTF8
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] SMTP handshake finished
+[2026-02-16 07:13:15] DEBUG [Kn85LpqFo] C: AUTH PLAIN AHRlamVzaHdhcm9yZ0BnbWFpbC5jb20ALyogc2VjcmV0ICov
+[2026-02-16 07:13:16] DEBUG [Kn85LpqFo] S: 535-5.7.8 Username and Password not accepted. For more information, go to
+[2026-02-16 07:13:16] DEBUG [Kn85LpqFo] S: 535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e52fcff01sm5965374a12.2 - gsmtp
+[2026-02-16 07:13:16] INFO  [Kn85LpqFo] User "tejeshwarorg@gmail.com" failed to authenticate
+[2026-02-16 07:13:16] DEBUG [Kn85LpqFo] Closing connection to the server using "end"
+[2026-02-16 07:13:16] ERROR Send Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+[2026-02-16 07:13:16] ERROR 535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e52fcff01sm5965374a12.2 - gsmtp
+Error sending email: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e52fcff01sm5965374a12.2 - gsmtp
+    at SMTPConnection._formatError (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:912:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:1722:34)
+    at SMTPConnection.<anonymous> (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:651:26)
+    at SMTPConnection._processResponse (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:1098:20)
+    at SMTPConnection._onData (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:872:14)
+    at SMTPConnection._onSocketData (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:196:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e52fcff01sm5965374a12.2 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+---------------------------------------------------
+[FALLBACK] Email failed. Your OTP is: 753570
+---------------------------------------------------
+[2026-02-16 07:15:48] DEBUG Creating transport: nodemailer (8.0.1; +https://nodemailer.com/; SMTP/8.0.1[client:8.0.1])
+[2026-02-16 07:15:48] DEBUG [gnlcLIPLOD8] Resolved smtp.gmail.com as 2404:6800:4000:1025::6d [cache hit]
+[2026-02-16 07:15:48] INFO  [gnlcLIPLOD8] Connection to 2404:6800:4000:1025::6d failed, trying 192.178.211.108
+[2026-02-16 07:15:49] INFO  [gnlcLIPLOD8] Secure connection established to 192.178.211.108:465
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] S: 220 smtp.gmail.com ESMTP 98e67ed59e1d1-3567ebc3508sm14627831a91.14 - gsmtp
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] C: EHLO [127.0.0.1]
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] S: 250-smtp.gmail.com at your service, [103.176.255.82]
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] S: 250-SIZE 35882577
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] S: 250-8BITMIME
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] S: 250-ENHANCEDSTATUSCODES
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] S: 250-PIPELINING
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] S: 250-CHUNKING
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] S: 250 SMTPUTF8
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] SMTP handshake finished
+[2026-02-16 07:15:51] DEBUG [gnlcLIPLOD8] C: AUTH PLAIN AHRlamVzaHdhcm9yZ0BnbWFpbC5jb20ALyogc2VjcmV0ICov
+[2026-02-16 07:15:52] DEBUG [gnlcLIPLOD8] S: 535-5.7.8 Username and Password not accepted. For more information, go to
+[2026-02-16 07:15:52] DEBUG [gnlcLIPLOD8] S: 535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3567ebc3508sm14627831a91.14 - gsmtp
+[2026-02-16 07:15:52] INFO  [gnlcLIPLOD8] User "tejeshwarorg@gmail.com" failed to authenticate
+[2026-02-16 07:15:52] DEBUG [gnlcLIPLOD8] Closing connection to the server using "end"
+[2026-02-16 07:15:52] DEBUG Sending mail using SMTP/8.0.1[client:8.0.1]
+[2026-02-16 07:15:52] DEBUG [Uom6cJy1Kic] Resolved smtp.gmail.com as 192.178.211.108 [cache hit]
+[2026-02-16 07:15:52] INFO  [Uom6cJy1Kic] Secure connection established to 192.178.211.108:465
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] S: 220 smtp.gmail.com ESMTP d2e1a72fcca58-824c6a43ff3sm10222491b3a.24 - gsmtp
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] C: EHLO [127.0.0.1]
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] S: 250-smtp.gmail.com at your service, [103.176.255.82]
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] S: 250-SIZE 35882577
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] S: 250-8BITMIME
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] S: 250-ENHANCEDSTATUSCODES
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] S: 250-PIPELINING
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] S: 250-CHUNKING
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] S: 250 SMTPUTF8
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] SMTP handshake finished
+[2026-02-16 07:15:54] DEBUG [Uom6cJy1Kic] C: AUTH PLAIN AHRlamVzaHdhcm9yZ0BnbWFpbC5jb20ALyogc2VjcmV0ICov
+[2026-02-16 07:15:55] DEBUG [Uom6cJy1Kic] S: 535-5.7.8 Username and Password not accepted. For more information, go to
+[2026-02-16 07:15:55] DEBUG [Uom6cJy1Kic] S: 535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6a43ff3sm10222491b3a.24 - gsmtp
+[2026-02-16 07:15:55] INFO  [Uom6cJy1Kic] User "tejeshwarorg@gmail.com" failed to authenticate
+[2026-02-16 07:15:55] DEBUG [Uom6cJy1Kic] Closing connection to the server using "end"
+[2026-02-16 07:15:55] ERROR Send Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+[2026-02-16 07:15:55] ERROR 535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6a43ff3sm10222491b3a.24 - gsmtp
+Error sending email: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6a43ff3sm10222491b3a.24 - gsmtp
+    at SMTPConnection._formatError (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:912:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:1722:34)
+    at SMTPConnection.<anonymous> (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:651:26)
+    at SMTPConnection._processResponse (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:1098:20)
+    at SMTPConnection._onData (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:872:14)
+    at SMTPConnection._onSocketData (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:196:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6a43ff3sm10222491b3a.24 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+---------------------------------------------------
+[FALLBACK] Email failed. Your OTP is: 681860
+---------------------------------------------------

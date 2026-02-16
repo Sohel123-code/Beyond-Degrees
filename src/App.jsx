@@ -9,6 +9,8 @@ import ConceptCategory from './pages/ConceptHub/ConceptCategory';
 import GradBuddy from './pages/GradBuddy/GradBuddy';
 import FloatingBuddy from './components/FloatingBuddy';
 import IntroVideo from './components/IntroVideo';
+import Login from './pages/Login';
+import ProtectedRoute from './components/ProtectedRoute';
 import './App.css';
 
 import { useEffect } from 'react';
@@ -28,13 +30,41 @@ function App() {
     <div className="App">
       <IntroVideo />
       <Routes>
+        <Route path="/login" element={<Login />} />
         <Route path="/" element={<HomePage />} />
-        <Route path="/career-paths" element={<CareerPathsHome />} />
-        <Route path="/career-paths/:stream" element={<StreamCareers />} />
-        <Route path="/career-paths/:stream/:careerId" element={<CareerDetail />} />
-        <Route path="/concept-hub" element={<ConceptHub />} />
-        <Route path="/concept-hub/:categoryId" element={<ConceptCategory />} />
-        <Route path="/gradbuddy" element={<GradBuddy />} />
+
+        {/* Protected Routes */}
+        <Route path="/career-paths" element={
+          <ProtectedRoute>
+            <CareerPathsHome />
+          </ProtectedRoute>
+        } />
+        <Route path="/career-paths/:stream" element={
+          <ProtectedRoute>
+            <StreamCareers />
+          </ProtectedRoute>
+        } />
+        <Route path="/career-paths/:stream/:careerId" element={
+          <ProtectedRoute>
+            <CareerDetail />
+          </ProtectedRoute>
+        } />
+        <Route path="/concept-hub" element={
+          <ProtectedRoute>
+            <ConceptHub />
+          </ProtectedRoute>
+        } />
+        <Route path="/concept-hub/:categoryId" element={
+          <ProtectedRoute>
+            <ConceptCategory />
+          </ProtectedRoute>
+        } />
+        <Route path="/gradbuddy" element={
+          <ProtectedRoute>
+            <GradBuddy />
+          </ProtectedRoute>
+        } />
+
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
       <FloatingBuddy />

@@ -1,0 +1,42 @@
+[dotenv@17.3.1] injecting env (7) from .env -- tip: 🤖 agentic secret storage: https://dotenvx.com/as2
+[dotenv@17.3.1] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+[dotenv@17.3.1] injecting env (0) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+Server running on http://localhost:5000
+Email Error: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6a627a5sm11265914b3a.27 - gsmtp
+    at SMTPConnection._formatError (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:912:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:1722:34)
+    at SMTPConnection.<anonymous> (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:651:26)
+    at SMTPConnection._processResponse (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:1098:20)
+    at SMTPConnection._onData (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:872:14)
+    at SMTPConnection._onSocketData (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:196:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-824c6a627a5sm11265914b3a.27 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+[FALLBACK] Email failed. Your OTP is: 101307
+Email Error: Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e5302af1esm5661306a12.15 - gsmtp
+    at SMTPConnection._formatError (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:912:19)
+    at SMTPConnection._actionAUTHComplete (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:1722:34)
+    at SMTPConnection.<anonymous> (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:651:26)
+    at SMTPConnection._processResponse (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:1098:20)
+    at SMTPConnection._onData (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:872:14)
+    at SMTPConnection._onSocketData (C:\Users\ibadu\Desktop\beyond\Beyond-Degrees\node_modules\nodemailer\lib\smtp-connection\index.js:196:44)
+    at TLSSocket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5) {
+  code: 'EAUTH',
+  response: '535-5.7.8 Username and Password not accepted. For more information, go to\n' +
+    '535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c6e5302af1esm5661306a12.15 - gsmtp',
+  responseCode: 535,
+  command: 'AUTH PLAIN'
+}
+[FALLBACK] Email failed. Your OTP is: 247682

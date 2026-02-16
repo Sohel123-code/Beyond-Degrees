@@ -1,5 +1,6 @@
 import React, { useMemo, useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
+import { logout } from '../services/auth';
 import './SiteNavbar.css';
 
 const CapIcon = (props) => (
@@ -64,9 +65,29 @@ const SiteNavbar = () => {
         </div>
 
         <div className="nav__right">
-          <Link className="btn btn--primary nav__cta" to="/career-paths">
-            Get Started
-          </Link>
+          {localStorage.getItem('user_name') ? (
+            <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+              <button className="btn btn--primary nav__cta">
+                {localStorage.getItem('user_name')}
+              </button>
+              <button
+                onClick={logout}
+                className="nav__link"
+                style={{ background: 'none', border: 'none', cursor: 'pointer', fontSize: '1rem', fontWeight: '600' }}
+              >
+                Logout
+              </button>
+            </div>
+          ) : (
+            <>
+              <Link className="nav__link" to="/login" style={{ marginRight: '1rem', fontWeight: '600' }}>
+                Login
+              </Link>
+              <Link className="btn btn--primary nav__cta" to="/career-paths">
+                Get Started
+              </Link>
+            </>
+          )}
           <button
             className="nav__hamburger"
             aria-label="Open menu"
@@ -88,6 +109,15 @@ const SiteNavbar = () => {
               {l.label}
             </Link>
           ))}
+          {localStorage.getItem('user_name') ? (
+            <button className="navMobile__link" onClick={() => { logout(); setOpen(false); }} style={{ background: 'none', border: 'none', textAlign: 'left', cursor: 'pointer', fontSize: '1.2rem', fontWeight: '500', color: '#333', padding: '1rem 0', width: '100%' }}>
+              Logout
+            </button>
+          ) : (
+            <Link className="navMobile__link" to="/login" onClick={() => setOpen(false)}>
+              Login
+            </Link>
+          )}
           <Link className="btn btn--primary navMobile__cta" to="/career-paths" onClick={() => setOpen(false)}>
             Get Started
           </Link>

@@ -1,0 +1,27 @@
+[dotenv@17.3.1] injecting env (7) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+[dotenv@17.3.1] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+Server running on http://localhost:5000
+Login error: {
+  code: 'PGRST204',
+  details: null,
+  hint: null,
+  message: "Could not find the 'passwords' column of 'USERS' in the schema cache"
+}
+Login error: {
+  code: 'PGRST204',
+  details: null,
+  hint: null,
+  message: "Could not find the 'passwords' column of 'USERS' in the schema cache"
+}
+Login error: {
+  code: 'PGRST204',
+  details: null,
+  hint: null,
+  message: "Could not find the 'passwords' column of 'USERS' in the schema cache"
+}
+Login error: {
+  code: 'PGRST204',
+  details: null,
+  hint: null,
+  message: "Could not find the 'passwords' column of 'USERS' in the schema cache"
+}
